@@ -1,0 +1,2912 @@
+{
+  "aa_muts": {},
+  "attr": {
+    "clock_length": 0.001,
+    "country": "China",
+    "country_confidence": {
+      "China": 0.10507470726645234,
+      "Japan": 0.08775389934027177,
+      "Singapore": 0.08538432273411765,
+      "Taiwan": 0.08924350793249469
+    },
+    "country_entropy": 2.480515692375035,
+    "date": "1980-11-25",
+    "div": 0,
+    "num_date": 1980.9013502192465,
+    "num_date_confidence": [
+      1550.4477776001006,
+      2005.1098254890333
+    ]
+  },
+  "branch_length": 0.001,
+  "children": [
+    {
+      "aa_muts": {
+        "UJ99_s6gp1": [
+          "V34A",
+          "I40T",
+          "I46T",
+          "E79D",
+          "I81T",
+          "K84T",
+          "I163L",
+          "V166A",
+          "K222Q",
+          "D250A",
+          "I264T",
+          "F367L",
+          "N397T",
+          "V453A"
+        ]
+      },
+      "attr": {
+        "clock_length": 0.12533170232309282,
+        "country": "China",
+        "country_confidence": {
+          "China": 0.8628774807435904,
+          "Japan": 0.0011561973895079835,
+          "Thailand": 0.12858255157185491,
+          "USA": 0.001432904687509855
+        },
+        "country_entropy": 0.45103332599653706,
+        "date": "2008-04-22",
+        "div": 0.1289224607823727,
+        "num_date": 2008.3085936225136,
+        "num_date_confidence": [
+          1995.4059341667175,
+          2009.3164228665282
+        ]
+      },
+      "branch_length": 0.1253317,
+      "children": [
+        {
+          "aa_muts": {},
+          "attr": {
+            "accession": "CY064331",
+            "clock_length": 0.004301083149443101,
+            "country": "China",
+            "country_confidence": {
+              "China": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "2009-04-01",
+            "div": 0.12949938078237272,
+            "num_date": 2009.2491444216291,
+            "num_date_confidence": [
+              2009.2491444216291,
+              2009.3197791947948
+            ],
+            "raw_date": "2009-04-XX"
+          },
+          "branch_length": 0.00430108,
+          "clade": 0,
+          "muts": [
+            "T1008C"
+          ],
+          "strain": "CY064331_China_2009_04_",
+          "yvalue": 49
+        },
+        {
+          "aa_muts": {},
+          "attr": {
+            "clock_length": 0.0012619531042376148,
+            "country": "China",
+            "country_confidence": {
+              "China": 0.8268295682643126,
+              "Thailand": 0.17046383074795884
+            },
+            "country_entropy": 0.4808802913349387,
+            "date": "2008-08-01",
+            "div": 0.1310314607823727,
+            "num_date": 2008.5845545745335,
+            "num_date_confidence": [
+              1998.7108433332323,
+              2009.3188915447583
+            ]
+          },
+          "branch_length": 0.00126195,
+          "children": [
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 0.0028834510565855925,
+                "country": "China",
+                "country_confidence": {
+                  "China": 0.9992076021752669
+                },
+                "country_entropy": 0.0067047055724943705,
+                "date": "2009-03-19",
+                "div": 0.1310314607823727,
+                "num_date": 2009.2151009046675,
+                "num_date_confidence": [
+                  2008.6424054513545,
+                  2009.3259715892732
+                ]
+              },
+              "branch_length": 0.00288345,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "CY064361",
+                    "clock_length": 0.0006564130288155695,
+                    "country": "China",
+                    "country_confidence": {
+                      "China": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2009-05-10",
+                    "div": 0.13194123078237271,
+                    "num_date": 2009.3586437698832,
+                    "num_date_confidence": [
+                      2009.331279945243,
+                      2009.413415468857
+                    ],
+                    "raw_date": "2009-05-XX"
+                  },
+                  "branch_length": 0.00065641,
+                  "clade": 1,
+                  "muts": [
+                    "T1131C"
+                  ],
+                  "strain": "CY064361_China_2009_05_",
+                  "yvalue": 48
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 0.00016595511017318543,
+                    "country": "China",
+                    "country_confidence": {
+                      "China": 0.9999863070837537
+                    },
+                    "country_entropy": 0.00017807750802146274,
+                    "date": "2009-04-01",
+                    "div": 0.1310314607823727,
+                    "num_date": 2009.2513915798456,
+                    "num_date_confidence": [
+                      2008.6661997995036,
+                      2009.3276673044177
+                    ]
+                  },
+                  "branch_length": 0.00016596,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "CY064334",
+                        "clock_length": 0.0002903453159040434,
+                        "country": "China",
+                        "country_confidence": {
+                          "China": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2009-04-25",
+                        "div": 0.1310338407823727,
+                        "num_date": 2009.3148836141552,
+                        "num_date_confidence": [
+                          2009.2491444216291,
+                          2009.3285420944558
+                        ],
+                        "raw_date": "2009-04-XX"
+                      },
+                      "branch_length": 0.00029035,
+                      "clade": 2,
+                      "muts": [],
+                      "strain": "CY064334_China_2009_04_",
+                      "yvalue": 47
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "CY064328",
+                        "clock_length": 0.0002903453159040434,
+                        "country": "China",
+                        "country_confidence": {
+                          "China": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2009-04-25",
+                        "div": 0.1310338407823727,
+                        "num_date": 2009.3148836141552,
+                        "num_date_confidence": [
+                          2009.2491444216291,
+                          2009.3285420944558
+                        ],
+                        "raw_date": "2009-04-XX"
+                      },
+                      "branch_length": 0.00029035,
+                      "clade": 3,
+                      "muts": [],
+                      "strain": "CY064328_China_2009_04_",
+                      "yvalue": 46
+                    }
+                  ],
+                  "clade": 4,
+                  "muts": [],
+                  "strain": "NODE_0000007",
+                  "yvalue": 46.5
+                }
+              ],
+              "clade": 5,
+              "muts": [],
+              "strain": "NODE_0000006",
+              "yvalue": 47.25
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 0.0004882713860278401,
+                "country": "Thailand",
+                "country_confidence": {
+                  "China": 0.044632560645816485,
+                  "Thailand": 0.9544464020808092
+                },
+                "country_entropy": 0.1917040163648992,
+                "date": "2008-09-09",
+                "div": 0.1319214607823727,
+                "num_date": 2008.6913286187353,
+                "num_date_confidence": [
+                  1999.5863075120492,
+                  2009.3206421423042
+                ]
+              },
+              "branch_length": 0.00048827,
+              "children": [
+                {
+                  "aa_muts": {
+                    "UJ99_s6gp1": [
+                      "I396M"
+                    ]
+                  },
+                  "attr": {
+                    "accession": "JN676131",
+                    "clock_length": 0.004904624232171112,
+                    "country": "Thailand",
+                    "country_confidence": {
+                      "Thailand": 0.9999999999999999
+                    },
+                    "country_entropy": -9.99866855976916e-13,
+                    "date": "2009-10-05",
+                    "div": 0.13288291078237272,
+                    "num_date": 2009.7638603696098,
+                    "num_date_confidence": [
+                      2009.7638603696098,
+                      2009.7638603696098
+                    ],
+                    "raw_date": "2009-10-06"
+                  },
+                  "branch_length": 0.00490462,
+                  "clade": 6,
+                  "muts": [
+                    "A1188G"
+                  ],
+                  "strain": "JN676131_Thailand_2009_10_06",
+                  "yvalue": 45
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 0.0008389996098165167,
+                    "country": "Thailand",
+                    "country_confidence": {
+                      "Thailand": 0.9999835895529976
+                    },
+                    "country_entropy": 0.00019805033994902375,
+                    "date": "2008-11-15",
+                    "div": 0.1323864607823727,
+                    "num_date": 2008.874799090254,
+                    "num_date_confidence": [
+                      1999.9369064941532,
+                      2009.3223954651114
+                    ]
+                  },
+                  "branch_length": 0.000839,
+                  "children": [
+                    {
+                      "aa_muts": {
+                        "UJ99_s6gp1": [
+                          "M23I",
+                          "I436V"
+                        ]
+                      },
+                      "attr": {
+                        "accession": "KP637536",
+                        "clock_length": 0.0032017425769477817,
+                        "country": "Thailand",
+                        "country_confidence": {
+                          "Thailand": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2009-07-29",
+                        "div": 0.1366705507823727,
+                        "num_date": 2009.5749486652978,
+                        "num_date_confidence": [
+                          2009.5749486652978,
+                          2009.5749486652978
+                        ],
+                        "raw_date": "2009-07-29"
+                      },
+                      "branch_length": 0.00320174,
+                      "clade": 7,
+                      "muts": [
+                        "G69A",
+                        "T360C",
+                        "T900C",
+                        "A993G",
+                        "A1278G",
+                        "A1306G"
+                      ],
+                      "strain": "KP637536_Thailand_2009_07_29",
+                      "yvalue": 44
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.00012274543386642245,
+                        "country": "Thailand",
+                        "country_confidence": {
+                          "Thailand": 0.9994348929326147
+                        },
+                        "country_entropy": 0.005300678184573534,
+                        "date": "2008-11-25",
+                        "div": 0.1323864607823727,
+                        "num_date": 2008.9016407745228,
+                        "num_date_confidence": [
+                          2004.6358248126046,
+                          2009.325970341061
+                        ]
+                      },
+                      "branch_length": 0.00012275,
+                      "children": [
+                        {
+                          "aa_muts": {
+                            "UJ99_s6gp1": [
+                              "I7V"
+                            ]
+                          },
+                          "attr": {
+                            "clock_length": 0.0015993897370479987,
+                            "country": "Thailand",
+                            "country_confidence": {
+                              "China": 0.01775679262218431,
+                              "Thailand": 0.9819071144775842
+                            },
+                            "country_entropy": 0.09291148219834366,
+                            "date": "2009-04-01",
+                            "div": 0.13381346078237272,
+                            "num_date": 2009.2513915798456,
+                            "num_date_confidence": [
+                              2009.1026338681224,
+                              2009.3276673044177
+                            ]
+                          },
+                          "branch_length": 0.00159939,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "GU271952",
+                                "clock_length": 0.0010163663092206468,
+                                "country": "Thailand",
+                                "country_confidence": {
+                                  "Thailand": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2009-06-22",
+                                "div": 0.13523943078237272,
+                                "num_date": 2009.473648186174,
+                                "num_date_confidence": [
+                                  2009.473648186174,
+                                  2009.473648186174
+                                ],
+                                "raw_date": "2009-06-22"
+                              },
+                              "branch_length": 0.00101637,
+                              "clade": 8,
+                              "muts": [
+                                "G996A"
+                              ],
+                              "strain": "GU271952_Thailand_2009_06_22",
+                              "yvalue": 43
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "CY064292",
+                                "clock_length": 0.00035280473810984925,
+                                "country": "China",
+                                "country_confidence": {
+                                  "China": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2009-04-29",
+                                "div": 0.1338158407823727,
+                                "num_date": 2009.3285420944558,
+                                "num_date_confidence": [
+                                  2009.2576476089744,
+                                  2009.3285420944558
+                                ],
+                                "raw_date": "2009-04-XX"
+                              },
+                              "branch_length": 0.0003528,
+                              "clade": 9,
+                              "muts": [],
+                              "strain": "CY064292_China_2009_04_",
+                              "yvalue": 42
+                            }
+                          ],
+                          "clade": 10,
+                          "muts": [
+                            "A19G",
+                            "A21T",
+                            "T591C"
+                          ],
+                          "strain": "NODE_0000008",
+                          "yvalue": 42.5
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.0014172721406381442,
+                            "country": "Thailand",
+                            "country_confidence": {
+                              "Singapore": 0.011543547751665339,
+                              "Thailand": 0.9877806208242064
+                            },
+                            "country_entropy": 0.06989408010439646,
+                            "date": "2009-03-18",
+                            "div": 0.1323864607823727,
+                            "num_date": 2009.2115665299955,
+                            "num_date_confidence": [
+                              2004.6225676431222,
+                              2009.4125394223233
+                            ]
+                          },
+                          "branch_length": 0.00141727,
+                          "children": [
+                            {
+                              "aa_muts": {
+                                "UJ99_s6gp1": [
+                                  "L85M"
+                                ]
+                              },
+                              "attr": {
+                                "accession": "GU931685",
+                                "clock_length": 0.0009230432534715408,
+                                "country": "Singapore",
+                                "country_confidence": {
+                                  "Singapore": 0.9999999999999999
+                                },
+                                "country_entropy": -9.99866855976916e-13,
+                                "date": "2009-05-31",
+                                "div": 0.1338198007823727,
+                                "num_date": 2009.413415468857,
+                                "num_date_confidence": [
+                                  2009.331279945243,
+                                  2009.413415468857
+                                ],
+                                "raw_date": "2009-05-XX"
+                              },
+                              "branch_length": 0.00092304,
+                              "clade": 11,
+                              "muts": [
+                                "T253A",
+                                "G786A"
+                              ],
+                              "strain": "GU931685_Singapore_2009_05_",
+                              "yvalue": 41
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "GQ902835",
+                                "clock_length": 0.0011484037870562389,
+                                "country": "Thailand",
+                                "country_confidence": {
+                                  "Thailand": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2009-06-18",
+                                "div": 0.1330981707823727,
+                                "num_date": 2009.4626967830254,
+                                "num_date_confidence": [
+                                  2009.4626967830254,
+                                  2009.4626967830254
+                                ],
+                                "raw_date": "2009-06-18"
+                              },
+                              "branch_length": 0.0011484,
+                              "clade": 12,
+                              "muts": [
+                                "G996A"
+                              ],
+                              "strain": "GQ902835_Thailand_2009_06_18",
+                              "yvalue": 40
+                            }
+                          ],
+                          "clade": 13,
+                          "muts": [],
+                          "strain": "NODE_0000014",
+                          "yvalue": 40.5
+                        }
+                      ],
+                      "clade": 14,
+                      "muts": [],
+                      "strain": "NODE_0000010",
+                      "yvalue": 41.5
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.0008822557198470762,
+                        "country": "Thailand",
+                        "country_confidence": {
+                          "Thailand": 0.9998508374315723
+                        },
+                        "country_entropy": 0.0015705154330713927,
+                        "date": "2009-01-24",
+                        "div": 0.13381346078237272,
+                        "num_date": 2009.0677287067006,
+                        "num_date_confidence": [
+                          2005.7350562298514,
+                          2009.4838362426362
+                        ]
+                      },
+                      "branch_length": 0.00088226,
+                      "children": [
+                        {
+                          "aa_muts": {
+                            "UJ99_s6gp1": [
+                              "T264S"
+                            ]
+                          },
+                          "attr": {
+                            "accession": "GU183801",
+                            "clock_length": 0.0020816062938726967,
+                            "country": "Thailand",
+                            "country_confidence": {
+                              "Thailand": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2009-07-10",
+                            "div": 0.13524228078237271,
+                            "num_date": 2009.5229295003423,
+                            "num_date_confidence": [
+                              2009.5229295003423,
+                              2009.5229295003423
+                            ],
+                            "raw_date": "2009-07-10"
+                          },
+                          "branch_length": 0.00208161,
+                          "clade": 15,
+                          "muts": [
+                            "A790T",
+                            "G1290A"
+                          ],
+                          "strain": "GU183801_Thailand_2009_07_10",
+                          "yvalue": 39
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.000754179245984532,
+                            "country": "Thailand",
+                            "country_confidence": {
+                              "Myanmar": 0.008572909895066693,
+                              "Thailand": 0.991007911728331
+                            },
+                            "country_entropy": 0.053875323764317064,
+                            "date": "2009-03-25",
+                            "div": 0.1345254607823727,
+                            "num_date": 2009.2326508595258,
+                            "num_date_confidence": [
+                              2009.0491606890716,
+                              2009.4855862712707
+                            ]
+                          },
+                          "branch_length": 0.00075418,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "KP637792",
+                                "clock_length": 0.001227266810738599,
+                                "country": "Thailand",
+                                "country_confidence": {
+                                  "Thailand": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2009-07-01",
+                                "div": 0.1345278407823727,
+                                "num_date": 2009.501026694045,
+                                "num_date_confidence": [
+                                  2009.501026694045,
+                                  2009.501026694045
+                                ],
+                                "raw_date": "2009-07-02"
+                              },
+                              "branch_length": 0.00122727,
+                              "clade": 16,
+                              "muts": [],
+                              "strain": "KP637792_Thailand_2009_07_02",
+                              "yvalue": 38
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 0.0005078117400299301,
+                                "country": "Myanmar",
+                                "country_confidence": {
+                                  "Myanmar": 0.9999490230759137
+                                },
+                                "country_entropy": 0.0005623432435744263,
+                                "date": "2009-05-05",
+                                "div": 0.1352374607823727,
+                                "num_date": 2009.3436979426187,
+                                "num_date_confidence": [
+                                  2009.2291902667869,
+                                  2009.4873374401095
+                                ]
+                              },
+                              "branch_length": 0.00050781,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "accession": "HQ256609",
+                                    "clock_length": 0.0006568549224911027,
+                                    "country": "Myanmar",
+                                    "country_confidence": {
+                                      "Myanmar": 0.9999999999999999
+                                    },
+                                    "country_entropy": -9.99866855976916e-13,
+                                    "date": "2009-06-27",
+                                    "div": 0.1373772507823727,
+                                    "num_date": 2009.4873374401095,
+                                    "num_date_confidence": [
+                                      2009.4873374401095,
+                                      2009.4873374401095
+                                    ],
+                                    "raw_date": "2009-06-27"
+                                  },
+                                  "branch_length": 0.00065685,
+                                  "clade": 17,
+                                  "muts": [
+                                    "C159T",
+                                    "A321G",
+                                    "G963A"
+                                  ],
+                                  "strain": "HQ256609_Myanmar_2009_06_27",
+                                  "yvalue": 37
+                                },
+                                {
+                                  "aa_muts": {
+                                    "UJ99_s6gp1": [
+                                      "N88Y",
+                                      "Y155F"
+                                    ]
+                                  },
+                                  "attr": {
+                                    "accession": "HQ256643",
+                                    "clock_length": 0.0012202562564523345,
+                                    "country": "Myanmar",
+                                    "country_confidence": {
+                                      "Myanmar": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2009-08-10",
+                                    "div": 0.1366641807823727,
+                                    "num_date": 2009.6105407255304,
+                                    "num_date_confidence": [
+                                      2009.6105407255304,
+                                      2009.6105407255304
+                                    ],
+                                    "raw_date": "2009-08-11"
+                                  },
+                                  "branch_length": 0.00122026,
+                                  "clade": 18,
+                                  "muts": [
+                                    "A262T",
+                                    "A464T"
+                                  ],
+                                  "strain": "HQ256643_Myanmar_2009_08_11",
+                                  "yvalue": 36
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.000467792884072199,
+                                    "country": "Myanmar",
+                                    "country_confidence": {
+                                      "Myanmar": 0.9999985261769131
+                                    },
+                                    "country_entropy": 2.428630728407e-05,
+                                    "date": "2009-06-11",
+                                    "div": 0.1352374607823727,
+                                    "num_date": 2009.44599379593,
+                                    "num_date_confidence": [
+                                      2009.326342214818,
+                                      2009.5065023956195
+                                    ]
+                                  },
+                                  "branch_length": 0.00046779,
+                                  "children": [
+                                    {
+                                      "aa_muts": {
+                                        "UJ99_s6gp1": [
+                                          "A250T"
+                                        ]
+                                      },
+                                      "attr": {
+                                        "accession": "HQ256625",
+                                        "clock_length": 0.0007775034316677906,
+                                        "country": "Myanmar",
+                                        "country_confidence": {
+                                          "Myanmar": 0.9999999999999999
+                                        },
+                                        "country_entropy": -9.99866855976916e-13,
+                                        "date": "2009-08-13",
+                                        "div": 0.1359491307823727,
+                                        "num_date": 2009.6160164271048,
+                                        "num_date_confidence": [
+                                          2009.6160164271048,
+                                          2009.6160164271048
+                                        ],
+                                        "raw_date": "2009-08-13"
+                                      },
+                                      "branch_length": 0.0007775,
+                                      "clade": 19,
+                                      "muts": [
+                                        "G748A"
+                                      ],
+                                      "strain": "HQ256625_Myanmar_2009_08_13",
+                                      "yvalue": 35
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "accession": "HQ256613",
+                                        "clock_length": 0.000276702245924125,
+                                        "country": "Myanmar",
+                                        "country_confidence": {
+                                          "Myanmar": 0.9999999999999999
+                                        },
+                                        "country_entropy": -9.99866855976916e-13,
+                                        "date": "2009-07-04",
+                                        "div": 0.1352398407823727,
+                                        "num_date": 2009.5065023956195,
+                                        "num_date_confidence": [
+                                          2009.5065023956195,
+                                          2009.5065023956195
+                                        ],
+                                        "raw_date": "2009-07-04"
+                                      },
+                                      "branch_length": 0.0002767,
+                                      "clade": 20,
+                                      "muts": [],
+                                      "strain": "HQ256613_Myanmar_2009_07_04",
+                                      "yvalue": 34
+                                    }
+                                  ],
+                                  "clade": 21,
+                                  "muts": [],
+                                  "strain": "NODE_0000018",
+                                  "yvalue": 34.5
+                                }
+                              ],
+                              "clade": 22,
+                              "muts": [
+                                "C6T"
+                              ],
+                              "strain": "NODE_0000013",
+                              "yvalue": 35.75
+                            }
+                          ],
+                          "clade": 23,
+                          "muts": [
+                            "T207C"
+                          ],
+                          "strain": "NODE_0000012",
+                          "yvalue": 36.875
+                        }
+                      ],
+                      "clade": 24,
+                      "muts": [
+                        "T465C",
+                        "C696T"
+                      ],
+                      "strain": "NODE_0000011",
+                      "yvalue": 37.9375
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.00015014614084331995,
+                        "country": "Thailand",
+                        "country_confidence": {
+                          "China": 0.0032297378829823204,
+                          "Thailand": 0.9913789549382578,
+                          "USA": 0.004718815668825213
+                        },
+                        "country_entropy": 0.0584536138802293,
+                        "date": "2008-11-27",
+                        "div": 0.1330974607823727,
+                        "num_date": 2008.9076326970103,
+                        "num_date_confidence": [
+                          2000.3491047512837,
+                          2009.3718484111414
+                        ]
+                      },
+                      "branch_length": 0.00015015,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "GQ902803",
+                            "clock_length": 0.0025132351614298373,
+                            "country": "Thailand",
+                            "country_confidence": {
+                              "Thailand": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2009-06-16",
+                            "div": 0.1345259907823727,
+                            "num_date": 2009.457221081451,
+                            "num_date_confidence": [
+                              2009.457221081451,
+                              2009.457221081451
+                            ],
+                            "raw_date": "2009-06-16"
+                          },
+                          "branch_length": 0.00251324,
+                          "clade": 25,
+                          "muts": [
+                            "T900C",
+                            "A1278G"
+                          ],
+                          "strain": "GQ902803_Thailand_2009_06_16",
+                          "yvalue": 33
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": -9.051862406764255e-05,
+                            "country": "Thailand",
+                            "country_confidence": {
+                              "China": 0.1170719428602342,
+                              "Malaysia": 0.015597094979781321,
+                              "Thailand": 0.6675648458711906,
+                              "USA": 0.17767845176714095
+                            },
+                            "country_entropy": 1.0035957124215507,
+                            "date": "2008-11-20",
+                            "div": 0.1337964607823727,
+                            "num_date": 2008.8878382961016,
+                            "num_date_confidence": [
+                              2000.7358043242123,
+                              2009.373548420181
+                            ]
+                          },
+                          "branch_length": -9.052e-05,
+                          "children": [
+                            {
+                              "aa_muts": {
+                                "UJ99_s6gp1": [
+                                  "A250T",
+                                  "I287M"
+                                ]
+                              },
+                              "attr": {
+                                "accession": "CY064253",
+                                "clock_length": 0.0031796751491020223,
+                                "country": "China",
+                                "country_confidence": {
+                                  "China": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2009-07-31",
+                                "div": 0.1383821507823727,
+                                "num_date": 2009.583162217659,
+                                "num_date_confidence": [
+                                  2009.583162217659,
+                                  2009.6652977412732
+                                ],
+                                "raw_date": "2009-08-XX"
+                              },
+                              "branch_length": 0.00317968,
+                              "clade": 26,
+                              "muts": [
+                                "A243G",
+                                "A267G",
+                                "G748A",
+                                "A861G",
+                                "C951T",
+                                "G963A"
+                              ],
+                              "strain": "CY064253_China_2009_08_",
+                              "yvalue": 32
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 0.0001221303829262027,
+                                "country": "USA",
+                                "country_confidence": {
+                                  "India": 0.054513884995008484,
+                                  "Malaysia": 0.0555261534424525,
+                                  "Thailand": 0.28033185951972267,
+                                  "USA": 0.5566251878844526
+                                },
+                                "country_entropy": 1.1971808962475645,
+                                "date": "2008-11-30",
+                                "div": 0.1352304607823727,
+                                "num_date": 2008.91454548247,
+                                "num_date_confidence": [
+                                  2001.5354452869046,
+                                  2009.376069600057
+                                ]
+                              },
+                              "branch_length": 0.00012213,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.000640633931961232,
+                                    "country": "USA",
+                                    "country_confidence": {
+                                      "Thailand": 0.006094865452208651,
+                                      "USA": 0.9917300401951026
+                                    },
+                                    "country_entropy": 0.055927432286361975,
+                                    "date": "2009-01-19",
+                                    "div": 0.13738646078237268,
+                                    "num_date": 2009.0546378117067,
+                                    "num_date_confidence": [
+                                      2003.8388083361062,
+                                      2009.3778234086242
+                                    ]
+                                  },
+                                  "branch_length": 0.00064063,
+                                  "children": [
+                                    {
+                                      "aa_muts": {
+                                        "UJ99_s6gp1": [
+                                          "N28S",
+                                          "G214E"
+                                        ]
+                                      },
+                                      "attr": {
+                                        "accession": "GQ896361",
+                                        "clock_length": 0.0014779086109458633,
+                                        "country": "USA",
+                                        "country_confidence": {
+                                          "USA": 1.0
+                                        },
+                                        "country_entropy": -1.000088900581841e-12,
+                                        "date": "2009-05-17",
+                                        "div": 0.14024616078237268,
+                                        "num_date": 2009.3778234086242,
+                                        "num_date_confidence": [
+                                          2009.3778234086242,
+                                          2009.3778234086242
+                                        ],
+                                        "raw_date": "2009-05-18"
+                                      },
+                                      "branch_length": 0.00147791,
+                                      "clade": 27,
+                                      "muts": [
+                                        "A83G",
+                                        "T483C",
+                                        "G641A",
+                                        "T1401C"
+                                      ],
+                                      "strain": "GQ896361_USA_2009_05_18",
+                                      "yvalue": 31
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "accession": "GQ896367",
+                                        "clock_length": 0.0015279887295201258,
+                                        "country": "USA",
+                                        "country_confidence": {
+                                          "USA": 1.0
+                                        },
+                                        "country_entropy": -1.000088900581841e-12,
+                                        "date": "2009-05-21",
+                                        "div": 0.1416879207823727,
+                                        "num_date": 2009.3887748117727,
+                                        "num_date_confidence": [
+                                          2009.3887748117727,
+                                          2009.3887748117727
+                                        ],
+                                        "raw_date": "2009-05-22"
+                                      },
+                                      "branch_length": 0.00152799,
+                                      "clade": 28,
+                                      "muts": [
+                                        "C180T",
+                                        "C258A",
+                                        "T423C",
+                                        "T588C",
+                                        "T855C",
+                                        "G1287A"
+                                      ],
+                                      "strain": "GQ896367_USA_2009_05_22",
+                                      "yvalue": 30
+                                    }
+                                  ],
+                                  "clade": 29,
+                                  "muts": [
+                                    "A243G",
+                                    "G747A",
+                                    "C927T",
+                                    "A1236G"
+                                  ],
+                                  "strain": "NODE_0000003",
+                                  "yvalue": 30.5
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.00036569639808248233,
+                                    "country": "USA",
+                                    "country_confidence": {
+                                      "India": 0.2200152546615977,
+                                      "Malaysia": 0.22396321325152868,
+                                      "Thailand": 0.16601845394365197,
+                                      "USA": 0.34166999241532703
+                                    },
+                                    "country_entropy": 1.5491788163443503,
+                                    "date": "2008-12-29",
+                                    "div": 0.13594346078237268,
+                                    "num_date": 2008.994515115118,
+                                    "num_date_confidence": [
+                                      2002.1331958179258,
+                                      2009.6024503315705
+                                    ]
+                                  },
+                                  "branch_length": 0.0003657,
+                                  "children": [
+                                    {
+                                      "aa_muts": {
+                                        "UJ99_s6gp1": [
+                                          "L24V",
+                                          "S42I"
+                                        ]
+                                      },
+                                      "attr": {
+                                        "accession": "CY118259",
+                                        "clock_length": 0.003192649553837003,
+                                        "country": "Malaysia",
+                                        "country_confidence": {
+                                          "Malaysia": 1.0
+                                        },
+                                        "country_entropy": -1.000088900581841e-12,
+                                        "date": "2009-09-09",
+                                        "div": 0.1395243407823727,
+                                        "num_date": 2009.6926762491444,
+                                        "num_date_confidence": [
+                                          2009.6926762491444,
+                                          2009.6926762491444
+                                        ],
+                                        "raw_date": "2009-09-10"
+                                      },
+                                      "branch_length": 0.00319265,
+                                      "clade": 30,
+                                      "muts": [
+                                        "A36G",
+                                        "T70G",
+                                        "G125T",
+                                        "T606A",
+                                        "G756A"
+                                      ],
+                                      "strain": "CY118259_Malaysia_2009_09_10",
+                                      "yvalue": 29
+                                    },
+                                    {
+                                      "aa_muts": {
+                                        "UJ99_s6gp1": [
+                                          "T81N",
+                                          "V116I",
+                                          "V177I",
+                                          "D199G",
+                                          "I267V"
+                                        ]
+                                      },
+                                      "attr": {
+                                        "accession": "KJ909524",
+                                        "clock_length": 0.0032427296724112653,
+                                        "country": "India",
+                                        "country_confidence": {
+                                          "India": 1.0
+                                        },
+                                        "country_entropy": -1.000088900581841e-12,
+                                        "date": "2009-09-13",
+                                        "div": 0.1438194307823727,
+                                        "num_date": 2009.7036276522929,
+                                        "num_date_confidence": [
+                                          2009.7036276522929,
+                                          2009.7036276522929
+                                        ],
+                                        "raw_date": "2009-09-14"
+                                      },
+                                      "branch_length": 0.00324273,
+                                      "clade": 31,
+                                      "muts": [
+                                        "G72A",
+                                        "C242A",
+                                        "G346A",
+                                        "C387T",
+                                        "G529A",
+                                        "T588C",
+                                        "A596G",
+                                        "A799G",
+                                        "T855C",
+                                        "T1276C",
+                                        "T1401C"
+                                      ],
+                                      "strain": "KJ909524_India_2009_09_14",
+                                      "yvalue": 28
+                                    }
+                                  ],
+                                  "clade": 32,
+                                  "muts": [
+                                    "A243T"
+                                  ],
+                                  "strain": "NODE_0000004",
+                                  "yvalue": 28.5
+                                }
+                              ],
+                              "clade": 33,
+                              "muts": [
+                                "T852C",
+                                "G1080A"
+                              ],
+                              "strain": "NODE_0000002",
+                              "yvalue": 29.5
+                            }
+                          ],
+                          "clade": 34,
+                          "muts": [],
+                          "strain": "NODE_0000001",
+                          "yvalue": 30.75
+                        }
+                      ],
+                      "clade": 35,
+                      "muts": [
+                        "G123A"
+                      ],
+                      "strain": "NODE_0000000",
+                      "yvalue": 31.875
+                    }
+                  ],
+                  "clade": 36,
+                  "muts": [
+                    "T132C"
+                  ],
+                  "strain": "NODE_0000009",
+                  "yvalue": 37.9375
+                }
+              ],
+              "clade": 37,
+              "muts": [
+                "A1083G"
+              ],
+              "strain": "NODE_0000016",
+              "yvalue": 41.46875
+            }
+          ],
+          "clade": 38,
+          "muts": [
+            "C207T",
+            "T1032C"
+          ],
+          "strain": "NODE_0000017",
+          "yvalue": 44.359375
+        }
+      ],
+      "clade": 39,
+      "muts": [
+        "T6C",
+        "T51C",
+        "T64C",
+        "T101C",
+        "T114C",
+        "T119C",
+        "T137C",
+        "T150C",
+        "T162C",
+        "T180C",
+        "A237C",
+        "T242C",
+        "A251C",
+        "T282C",
+        "T315C",
+        "T327C",
+        "T400C",
+        "T405C",
+        "T415C",
+        "A487C",
+        "T497C",
+        "T504C",
+        "T522C",
+        "T546C",
+        "T552C",
+        "T567C",
+        "T579C",
+        "T616C",
+        "T645C",
+        "A664C",
+        "A696C",
+        "T705C",
+        "T717C",
+        "T720C",
+        "A735C",
+        "A749C",
+        "A774C",
+        "T791C",
+        "T816C",
+        "T846C",
+        "T858C",
+        "T882C",
+        "T927C",
+        "A951C",
+        "T984C",
+        "T1002C",
+        "T1005C",
+        "T1086C",
+        "T1095C",
+        "T1099C",
+        "A1149C",
+        "A1190C",
+        "T1206C",
+        "T1218C",
+        "T1221C",
+        "T1248C",
+        "T1341C",
+        "T1358C",
+        "T1362C",
+        "T1395C"
+      ],
+      "strain": "NODE_0000020",
+      "yvalue": 46.6796875
+    },
+    {
+      "aa_muts": {
+        "UJ99_s6gp1": [
+          "I13V",
+          "S14C",
+          "I15M",
+          "A16T",
+          "I19M",
+          "I20A",
+          "S21N",
+          "M23I",
+          "V34I",
+          "I40L",
+          "S42N",
+          "N45Q",
+          "G47E",
+          "I48T",
+          "R52S",
+          "I53V",
+          "S59N",
+          "H64Q",
+          "N70S",
+          "V74F",
+          "V75A",
+          "E78Q",
+          "E79S",
+          "K80M",
+          "I81V",
+          "S93P",
+          "I94V",
+          "T101S",
+          "H126P",
+          "V149I",
+          "A157T",
+          "K173R",
+          "M188I",
+          "G189N",
+          "G214D",
+          "K220R",
+          "K221N",
+          "K222N",
+          "V232A",
+          "M234V",
+          "I241V",
+          "N248D",
+          "K249G",
+          "D250Q",
+          "K257R",
+          "V263I",
+          "I264V",
+          "I267V",
+          "L269M",
+          "F274Y",
+          "T285S",
+          "G286S",
+          "I287E",
+          "V288I",
+          "M289T",
+          "D311E",
+          "V321I",
+          "E329N",
+          "G331K",
+          "E332T",
+          "N336G",
+          "T339S",
+          "V340S",
+          "D341N",
+          "Y351F",
+          "N365I",
+          "R366S",
+          "F367S",
+          "K369N",
+          "N382G",
+          "S385N",
+          "D386N",
+          "V389I",
+          "V393I",
+          "A395G",
+          "D398E",
+          "V427I",
+          "L430R",
+          "R432K",
+          "N454G"
+        ]
+      },
+      "attr": {
+        "clock_length": 0.1293819107692848,
+        "country": "Japan",
+        "country_confidence": {
+          "Japan": 0.664510562096092,
+          "Taiwan": 0.037277724837571136,
+          "Thailand": 0.04737209392603748,
+          "Viet\u00a0Nam": 0.2274859845278758
+        },
+        "country_entropy": 1.0096236975784816,
+        "date": "2009-03-11",
+        "div": 0.1332665392176273,
+        "num_date": 2009.194283728538,
+        "num_date_confidence": [
+          2002.0146719987147,
+          2009.4601799043437
+        ]
+      },
+      "branch_length": 0.12938191,
+      "children": [
+        {
+          "aa_muts": {
+            "UJ99_s6gp1": [
+              "S82P"
+            ]
+          },
+          "attr": {
+            "clock_length": 0.0018079316095538298,
+            "country": "Japan",
+            "country_confidence": {
+              "Japan": 0.9960825460218325,
+              "Viet\u00a0Nam": 0.0030115450504565535
+            },
+            "country_entropy": 0.029243639831958018,
+            "date": "2009-08-03",
+            "div": 0.1346655392176273,
+            "num_date": 2009.589637982578,
+            "num_date_confidence": [
+              2009.2328660945595,
+              2010.0475318928875
+            ]
+          },
+          "branch_length": 0.00180793,
+          "children": [
+            {
+              "aa_muts": {
+                "UJ99_s6gp1": [
+                  "N307D"
+                ]
+              },
+              "attr": {
+                "accession": "HQ286422",
+                "clock_length": 0.0021019217570350038,
+                "country": "Japan",
+                "country_confidence": {
+                  "Japan": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2010-01-18",
+                "div": 0.1367069392176273,
+                "num_date": 2010.0492813141684,
+                "num_date_confidence": [
+                  2010.0492813141684,
+                  2010.0492813141684
+                ],
+                "raw_date": "2010-01-18"
+              },
+              "branch_length": 0.00210192,
+              "clade": 40,
+              "muts": [
+                "A919G",
+                "A945G"
+              ],
+              "strain": "HQ286422_Japan_2010_01_18",
+              "yvalue": 27
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 0.0005576527110501064,
+                "country": "Japan",
+                "country_confidence": {
+                  "Japan": 0.9998995641254756
+                },
+                "country_entropy": 0.0011088304490857548,
+                "date": "2009-09-16",
+                "div": 0.1346655392176273,
+                "num_date": 2009.7115841725918,
+                "num_date_confidence": [
+                  2009.472345271427,
+                  2010.0492813141684
+                ]
+              },
+              "branch_length": 0.00055765,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "HQ286429",
+                    "clock_length": 0.0015442690459848973,
+                    "country": "Japan",
+                    "country_confidence": {
+                      "Japan": 0.9999999999999999
+                    },
+                    "country_entropy": -9.99866855976916e-13,
+                    "date": "2010-01-18",
+                    "div": 0.1346679192176273,
+                    "num_date": 2010.0492813141684,
+                    "num_date_confidence": [
+                      2010.0492813141684,
+                      2010.0492813141684
+                    ],
+                    "raw_date": "2010-01-18"
+                  },
+                  "branch_length": 0.00154427,
+                  "clade": 41,
+                  "muts": [],
+                  "strain": "HQ286429_Japan_2010_01_18",
+                  "yvalue": 26
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "HQ286423",
+                    "clock_length": 0.0015442690459848973,
+                    "country": "Japan",
+                    "country_confidence": {
+                      "Japan": 0.9999999999999999
+                    },
+                    "country_entropy": -9.99866855976916e-13,
+                    "date": "2010-01-18",
+                    "div": 0.1346679192176273,
+                    "num_date": 2010.0492813141684,
+                    "num_date_confidence": [
+                      2010.0492813141684,
+                      2010.0492813141684
+                    ],
+                    "raw_date": "2010-01-18"
+                  },
+                  "branch_length": 0.00154427,
+                  "clade": 42,
+                  "muts": [],
+                  "strain": "HQ286423_Japan_2010_01_18",
+                  "yvalue": 25
+                }
+              ],
+              "clade": 43,
+              "muts": [],
+              "strain": "NODE_0000027",
+              "yvalue": 25.5
+            }
+          ],
+          "clade": 44,
+          "muts": [
+            "T243C",
+            "T244C",
+            "T882C"
+          ],
+          "strain": "NODE_0000022",
+          "yvalue": 26.25
+        },
+        {
+          "aa_muts": {},
+          "attr": {
+            "clock_length": -0.0014504037370464198,
+            "country": "Japan",
+            "country_confidence": {
+              "Japan": 0.48977696932934334,
+              "Taiwan": 0.0572981552414415,
+              "Thailand": 0.07448706317873444,
+              "Viet\u00a0Nam": 0.3553632334591847
+            },
+            "country_entropy": 1.2063009612464706,
+            "date": "2008-11-16",
+            "div": 0.1348455392176273,
+            "num_date": 2008.8771128330868,
+            "num_date_confidence": [
+              2005.1318756631274,
+              2009.4619329285865
+            ]
+          },
+          "branch_length": -0.0014504,
+          "children": [
+            {
+              "aa_muts": {},
+              "attr": {
+                "accession": "HM598322",
+                "clock_length": 0.005184976688624818,
+                "country": "Thailand",
+                "country_confidence": {
+                  "Thailand": 0.9999999999999999
+                },
+                "country_entropy": -9.99866855976916e-13,
+                "date": "2010-01-03",
+                "div": 0.1380132292176273,
+                "num_date": 2010.0109514031485,
+                "num_date_confidence": [
+                  2010.0109514031485,
+                  2010.0109514031485
+                ],
+                "raw_date": "2010-01-04"
+              },
+              "branch_length": 0.00518498,
+              "clade": 45,
+              "muts": [
+                "T180C",
+                "T270C",
+                "G603T",
+                "C837T"
+              ],
+              "strain": "HM598322_Thailand_2010_01_04",
+              "yvalue": 24
+            },
+            {
+              "aa_muts": {
+                "UJ99_s6gp1": [
+                  "M80V"
+                ]
+              },
+              "attr": {
+                "clock_length": 0.0004351412240786723,
+                "country": "Viet\u00a0Nam",
+                "country_confidence": {
+                  "Japan": 0.3307075089189913,
+                  "Taiwan": 0.09088312986335999,
+                  "Thailand": 0.02966022189162732,
+                  "Viet\u00a0Nam": 0.5331771569033797
+                },
+                "country_entropy": 1.1174647335057182,
+                "date": "2008-12-21",
+                "div": 0.1356075392176273,
+                "num_date": 2008.9722684977914,
+                "num_date_confidence": [
+                  2008.644006918446,
+                  2009.4636844864256
+                ]
+              },
+              "branch_length": 0.00043514,
+              "children": [
+                {
+                  "aa_muts": {
+                    "UJ99_s6gp1": [
+                      "S52N"
+                    ]
+                  },
+                  "attr": {
+                    "accession": "HM072404",
+                    "clock_length": 0.003219261840618222,
+                    "country": "Taiwan",
+                    "country_confidence": {
+                      "Taiwan": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2009-09-04",
+                    "div": 0.1375311392176273,
+                    "num_date": 2009.6762491444217,
+                    "num_date_confidence": [
+                      2009.6762491444217,
+                      2009.6762491444217
+                    ],
+                    "raw_date": "2009-09-04"
+                  },
+                  "branch_length": 0.00321926,
+                  "clade": 46,
+                  "muts": [
+                    "G155A",
+                    "A321G",
+                    "C1353T"
+                  ],
+                  "strain": "HM072404_Taiwan_2009_09_04",
+                  "yvalue": 23
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 0.00016656685397174742,
+                    "country": "Viet\u00a0Nam",
+                    "country_confidence": {
+                      "Japan": 0.19741786230323727,
+                      "South\u00a0Korea": 0.003185721044998892,
+                      "Viet\u00a0Nam": 0.7992676120703222
+                    },
+                    "country_entropy": 0.5189863685750888,
+                    "date": "2009-01-03",
+                    "div": 0.1358175392176273,
+                    "num_date": 2009.0086929476722,
+                    "num_date_confidence": [
+                      2008.6578000014908,
+                      2009.4654346338125
+                    ]
+                  },
+                  "branch_length": 0.00016657,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "CY087300",
+                        "clock_length": 0.002088652704090102,
+                        "country": "Hong\u00a0Kong",
+                        "country_confidence": {
+                          "Hong\u00a0Kong": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2009-06-19",
+                        "div": 0.1365283892176273,
+                        "num_date": 2009.4654346338125,
+                        "num_date_confidence": [
+                          2009.4654346338125,
+                          2009.4654346338125
+                        ],
+                        "raw_date": "2009-06-19"
+                      },
+                      "branch_length": 0.00208865,
+                      "clade": 47,
+                      "muts": [
+                        "G873A"
+                      ],
+                      "strain": "CY087300_HongKong_2009_06_19",
+                      "yvalue": 22
+                    },
+                    {
+                      "aa_muts": {
+                        "UJ99_s6gp1": [
+                          "G382E"
+                        ]
+                      },
+                      "attr": {
+                        "accession": "AB537490",
+                        "clock_length": 0.003716256557756238,
+                        "country": "Japan",
+                        "country_confidence": {
+                          "Japan": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2009-10-27",
+                        "div": 0.1379518892176273,
+                        "num_date": 2009.8213552361397,
+                        "num_date_confidence": [
+                          2009.8213552361397,
+                          2009.8213552361397
+                        ],
+                        "raw_date": "2009-10-27"
+                      },
+                      "branch_length": 0.00371626,
+                      "clade": 48,
+                      "muts": [
+                        "G192A",
+                        "G1145A",
+                        "G1320A"
+                      ],
+                      "strain": "AB537490_Japan_2009_10_27",
+                      "yvalue": 21
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "GU014807",
+                        "clock_length": 0.002451733563754284,
+                        "country": "Japan",
+                        "country_confidence": {
+                          "Japan": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2009-07-18",
+                        "div": 0.1365284192176273,
+                        "num_date": 2009.5448323066394,
+                        "num_date_confidence": [
+                          2009.5448323066394,
+                          2009.5448323066394
+                        ],
+                        "raw_date": "2009-07-18"
+                      },
+                      "branch_length": 0.00245173,
+                      "clade": 49,
+                      "muts": [
+                        "C435T"
+                      ],
+                      "strain": "GU014807_Japan_2009_07_18",
+                      "yvalue": 20
+                    },
+                    {
+                      "aa_muts": {
+                        "UJ99_s6gp1": [
+                          "K84R"
+                        ]
+                      },
+                      "attr": {
+                        "accession": "CY128429",
+                        "clock_length": 0.004166977624925641,
+                        "country": "Viet\u00a0Nam",
+                        "country_confidence": {
+                          "Viet\u00a0Nam": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2009-12-02",
+                        "div": 0.1400919492176273,
+                        "num_date": 2009.9199178644765,
+                        "num_date_confidence": [
+                          2009.9199178644765,
+                          2009.9199178644765
+                        ],
+                        "raw_date": "2009-12-02"
+                      },
+                      "branch_length": 0.00416698,
+                      "clade": 50,
+                      "muts": [
+                        "A251G",
+                        "C375T",
+                        "A639C",
+                        "G684A",
+                        "T846C",
+                        "T1047C"
+                      ],
+                      "strain": "CY128429_VietNam_2009_12_02",
+                      "yvalue": 19
+                    },
+                    {
+                      "aa_muts": {
+                        "UJ99_s6gp1": [
+                          "Y275H"
+                        ]
+                      },
+                      "attr": {
+                        "accession": "CY128066",
+                        "clock_length": 0.0030151348977155226,
+                        "country": "Viet\u00a0Nam",
+                        "country_confidence": {
+                          "Viet\u00a0Nam": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2009-09-01",
+                        "div": 0.1379532192176273,
+                        "num_date": 2009.6680355920603,
+                        "num_date_confidence": [
+                          2009.6680355920603,
+                          2009.6680355920603
+                        ],
+                        "raw_date": "2009-09-01"
+                      },
+                      "branch_length": 0.00301513,
+                      "clade": 51,
+                      "muts": [
+                        "A231G",
+                        "C471T",
+                        "T823C",
+                        "G1146A"
+                      ],
+                      "strain": "CY128066_VietNam_2009_09_01",
+                      "yvalue": 18
+                    },
+                    {
+                      "aa_muts": {
+                        "UJ99_s6gp1": [
+                          "D113N"
+                        ]
+                      },
+                      "attr": {
+                        "accession": "CY060488",
+                        "clock_length": 0.004254617832429822,
+                        "country": "South\u00a0Korea",
+                        "country_confidence": {
+                          "South\u00a0Korea": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2009-12-08",
+                        "div": 0.13908243921762728,
+                        "num_date": 2009.9390828199862,
+                        "num_date_confidence": [
+                          2009.9390828199862,
+                          2009.9390828199862
+                        ],
+                        "raw_date": "2009-12-09"
+                      },
+                      "branch_length": 0.00425462,
+                      "clade": 52,
+                      "muts": [
+                        "G337A",
+                        "C393G"
+                      ],
+                      "strain": "CY060488_SouthKorea_2009_12_09",
+                      "yvalue": 17
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.0025268537416151607,
+                        "country": "Viet\u00a0Nam",
+                        "country_confidence": {
+                          "Viet\u00a0Nam": 0.9992666893961808
+                        },
+                        "country_entropy": 0.006240625569804796,
+                        "date": "2009-07-23",
+                        "div": 0.13652853921762728,
+                        "num_date": 2009.561259411362,
+                        "num_date_confidence": [
+                          2009.3454597404668,
+                          2009.561259411362
+                        ]
+                      },
+                      "branch_length": 0.00252685,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "CY128077",
+                            "clock_length": 0.0,
+                            "country": "Viet\u00a0Nam",
+                            "country_confidence": {
+                              "Viet\u00a0Nam": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2009-07-23",
+                            "div": 0.13653091921762728,
+                            "num_date": 2009.561259411362,
+                            "num_date_confidence": [
+                              2009.561259411362,
+                              2009.561259411362
+                            ],
+                            "raw_date": "2009-07-24"
+                          },
+                          "branch_length": 0.0,
+                          "clade": 53,
+                          "muts": [],
+                          "strain": "CY128077_VietNam_2009_07_24",
+                          "yvalue": 16
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "CY128093",
+                            "clock_length": 1.252002964434451e-05,
+                            "country": "Viet\u00a0Nam",
+                            "country_confidence": {
+                              "Viet\u00a0Nam": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2009-07-25",
+                            "div": 0.13653091921762728,
+                            "num_date": 2009.5639972621493,
+                            "num_date_confidence": [
+                              2009.5639972621493,
+                              2009.5639972621493
+                            ],
+                            "raw_date": "2009-07-25"
+                          },
+                          "branch_length": 1.252e-05,
+                          "clade": 54,
+                          "muts": [],
+                          "strain": "CY128093_VietNam_2009_07_25",
+                          "yvalue": 15
+                        }
+                      ],
+                      "clade": 55,
+                      "muts": [
+                        "G651A"
+                      ],
+                      "strain": "NODE_0000035",
+                      "yvalue": 15.5
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.0019032185417066985,
+                        "country": "South\u00a0Korea",
+                        "country_confidence": {
+                          "South\u00a0Korea": 0.7637859358524195,
+                          "Taiwan": 0.035299134000481944,
+                          "Thailand": 0.07392503650955529,
+                          "Viet\u00a0Nam": 0.08531879536231927
+                        },
+                        "country_entropy": 0.9081326983567759,
+                        "date": "2009-06-04",
+                        "div": 0.1358175392176273,
+                        "num_date": 2009.4248843250755,
+                        "num_date_confidence": [
+                          2009.2056991400352,
+                          2009.5652457874476
+                        ]
+                      },
+                      "branch_length": 0.00190322,
+                      "children": [
+                        {
+                          "aa_muts": {
+                            "UJ99_s6gp1": [
+                              "A86T"
+                            ]
+                          },
+                          "attr": {
+                            "clock_length": 0.001223436389162079,
+                            "country": "South\u00a0Korea",
+                            "country_confidence": {
+                              "South\u00a0Korea": 0.999986978684147
+                            },
+                            "country_entropy": 0.00017914779508638768,
+                            "date": "2009-09-09",
+                            "div": 0.13719753921762728,
+                            "num_date": 2009.6924225319672,
+                            "num_date_confidence": [
+                              2009.4577700070472,
+                              2009.8459175996966
+                            ]
+                          },
+                          "branch_length": 0.00122344,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "CY060467",
+                                "clock_length": 0.0009151223976206838,
+                                "country": "South\u00a0Korea",
+                                "country_confidence": {
+                                  "South\u00a0Korea": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2009-11-22",
+                                "div": 0.13719991921762728,
+                                "num_date": 2009.892539356605,
+                                "num_date_confidence": [
+                                  2009.892539356605,
+                                  2009.892539356605
+                                ],
+                                "raw_date": "2009-11-22"
+                              },
+                              "branch_length": 0.00091512,
+                              "clade": 56,
+                              "muts": [],
+                              "strain": "CY060467_SouthKorea_2009_11_22",
+                              "yvalue": 14
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "CY060497",
+                                "clock_length": 0.0012156031090662656,
+                                "country": "South\u00a0Korea",
+                                "country_confidence": {
+                                  "South\u00a0Korea": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2009-12-15",
+                                "div": 0.1386882992176273,
+                                "num_date": 2009.9582477754961,
+                                "num_date_confidence": [
+                                  2009.9582477754961,
+                                  2009.9582477754961
+                                ],
+                                "raw_date": "2009-12-16"
+                              },
+                              "branch_length": 0.0012156,
+                              "clade": 57,
+                              "muts": [
+                                "T717C"
+                              ],
+                              "strain": "CY060497_SouthKorea_2009_12_16",
+                              "yvalue": 13
+                            },
+                            {
+                              "aa_muts": {
+                                "UJ99_s6gp1": [
+                                  "I117M"
+                                ]
+                              },
+                              "attr": {
+                                "accession": "CY060494",
+                                "clock_length": 0.001203083079422955,
+                                "country": "South\u00a0Korea",
+                                "country_confidence": {
+                                  "South\u00a0Korea": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2009-12-14",
+                                "div": 0.1385856392176273,
+                                "num_date": 2009.955509924709,
+                                "num_date_confidence": [
+                                  2009.955509924709,
+                                  2009.955509924709
+                                ],
+                                "raw_date": "2009-12-15"
+                              },
+                              "branch_length": 0.00120308,
+                              "clade": 58,
+                              "muts": [
+                                "A351G"
+                              ],
+                              "strain": "CY060494_SouthKorea_2009_12_15",
+                              "yvalue": 12
+                            }
+                          ],
+                          "clade": 59,
+                          "muts": [
+                            "G256A"
+                          ],
+                          "strain": "NODE_0000029",
+                          "yvalue": 13.0
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 6.716450270548291e-05,
+                            "country": "South\u00a0Korea",
+                            "country_confidence": {
+                              "South\u00a0Korea": 0.6338242992195261,
+                              "Taiwan": 0.08962478991736937,
+                              "Thailand": 0.19603550592347324,
+                              "USA": 0.035550260448607186
+                            },
+                            "country_entropy": 1.1333931623475682,
+                            "date": "2009-06-09",
+                            "div": 0.1358175392176273,
+                            "num_date": 2009.4395717013706,
+                            "num_date_confidence": [
+                              2009.2830248797989,
+                              2009.5676586227448
+                            ]
+                          },
+                          "branch_length": 6.716e-05,
+                          "children": [
+                            {
+                              "aa_muts": {
+                                "UJ99_s6gp1": [
+                                  "N369K"
+                                ]
+                              },
+                              "attr": {
+                                "clock_length": 0.0014385896253336083,
+                                "country": "Thailand",
+                                "country_confidence": {
+                                  "South\u00a0Korea": 0.053143889709849255,
+                                  "Taiwan": 0.006355975723970313,
+                                  "Thailand": 0.9274709282311573,
+                                  "USA": 0.005499043389309063
+                                },
+                                "country_entropy": 0.3369823603933402,
+                                "date": "2009-10-02",
+                                "div": 0.1372415392176273,
+                                "num_date": 2009.754159114516,
+                                "num_date_confidence": [
+                                  2009.3380285012606,
+                                  2009.978896720012
+                                ]
+                              },
+                              "branch_length": 0.00143859,
+                              "children": [
+                                {
+                                  "aa_muts": {
+                                    "UJ99_s6gp1": [
+                                      "S176L",
+                                      "A251T"
+                                    ]
+                                  },
+                                  "attr": {
+                                    "accession": "CY082965",
+                                    "clock_length": 0.004166583025646257,
+                                    "country": "Thailand",
+                                    "country_confidence": {
+                                      "Thailand": 0.9999999999999999
+                                    },
+                                    "country_entropy": -9.99866855976916e-13,
+                                    "date": "2010-08-31",
+                                    "div": 0.1400940992176273,
+                                    "num_date": 2010.6652977412732,
+                                    "num_date_confidence": [
+                                      2010.6652977412732,
+                                      2010.6652977412732
+                                    ],
+                                    "raw_date": "2010-08-31"
+                                  },
+                                  "branch_length": 0.00416658,
+                                  "clade": 60,
+                                  "muts": [
+                                    "G411A",
+                                    "C527T",
+                                    "G751A",
+                                    "G906A"
+                                  ],
+                                  "strain": "CY082965_Thailand_2010_08_31",
+                                  "yvalue": 11
+                                },
+                                {
+                                  "aa_muts": {
+                                    "UJ99_s6gp1": [
+                                      "T9I",
+                                      "N44S",
+                                      "V241I"
+                                    ]
+                                  },
+                                  "attr": {
+                                    "accession": "KM013715",
+                                    "clock_length": 0.0038786223438429523,
+                                    "country": "Thailand",
+                                    "country_confidence": {
+                                      "Thailand": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2010-08-07",
+                                    "div": 0.1408082592176273,
+                                    "num_date": 2010.602327173169,
+                                    "num_date_confidence": [
+                                      2010.602327173169,
+                                      2010.602327173169
+                                    ],
+                                    "raw_date": "2010-08-08"
+                                  },
+                                  "branch_length": 0.00387862,
+                                  "clade": 61,
+                                  "muts": [
+                                    "C26T",
+                                    "A131G",
+                                    "C246T",
+                                    "T720C",
+                                    "G721A"
+                                  ],
+                                  "strain": "KM013715_Thailand_2010_08_08",
+                                  "yvalue": 10
+                                }
+                              ],
+                              "clade": 62,
+                              "muts": [
+                                "C1107A",
+                                "G1131A"
+                              ],
+                              "strain": "NODE_0000042",
+                              "yvalue": 10.5
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 4.263915671959967e-05,
+                                "country": "South\u00a0Korea",
+                                "country_confidence": {
+                                  "South\u00a0Korea": 0.5819649198231756,
+                                  "Taiwan": 0.21630678073310786,
+                                  "Thailand": 0.1113777321924249,
+                                  "USA": 0.07093558375217973
+                                },
+                                "country_entropy": 1.1814151411777982,
+                                "date": "2009-06-12",
+                                "div": 0.1358175392176273,
+                                "num_date": 2009.4488959323917,
+                                "num_date_confidence": [
+                                  2009.3426782457145,
+                                  2009.5711584987016
+                                ]
+                              },
+                              "branch_length": 4.264e-05,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "accession": "HM072405",
+                                    "clock_length": 0.0010396727855146934,
+                                    "country": "Taiwan",
+                                    "country_confidence": {
+                                      "Taiwan": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2009-09-04",
+                                    "div": 0.1365283892176273,
+                                    "num_date": 2009.6762491444217,
+                                    "num_date_confidence": [
+                                      2009.6762491444217,
+                                      2009.6762491444217
+                                    ],
+                                    "raw_date": "2009-09-04"
+                                  },
+                                  "branch_length": 0.00103967,
+                                  "clade": 63,
+                                  "muts": [
+                                    "G762A"
+                                  ],
+                                  "strain": "HM072405_Taiwan_2009_09_04",
+                                  "yvalue": 9
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.00010456727639476804,
+                                    "country": "South\u00a0Korea",
+                                    "country_confidence": {
+                                      "South\u00a0Korea": 0.5913901887518532,
+                                      "Taiwan": 0.15002794403486336,
+                                      "Thailand": 0.09053852030885487,
+                                      "USA": 0.14304955828944033
+                                    },
+                                    "country_entropy": 1.205626140450486,
+                                    "date": "2009-06-21",
+                                    "div": 0.1358175392176273,
+                                    "num_date": 2009.471762459719,
+                                    "num_date_confidence": [
+                                      2009.4225294660837,
+                                      2009.5735243257939
+                                    ]
+                                  },
+                                  "branch_length": 0.00010457,
+                                  "children": [
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 0.0005222093749914919,
+                                        "country": "South\u00a0Korea",
+                                        "country_confidence": {
+                                          "Singapore": 0.09900839837916625,
+                                          "South\u00a0Korea": 0.7122365664794821,
+                                          "Taiwan": 0.06893312685225891,
+                                          "USA": 0.06531963395501314
+                                        },
+                                        "country_entropy": 1.0273570276137813,
+                                        "date": "2009-08-02",
+                                        "div": 0.1358175392176273,
+                                        "num_date": 2009.5859579839366,
+                                        "num_date_confidence": [
+                                          2009.3993019687919,
+                                          2009.8115038372553
+                                        ]
+                                      },
+                                      "branch_length": 0.00052221,
+                                      "children": [
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "accession": "CY063832",
+                                            "clock_length": 0.002306550617720539,
+                                            "country": "Singapore",
+                                            "country_confidence": {
+                                              "Singapore": 1.0
+                                            },
+                                            "country_entropy": -1.000088900581841e-12,
+                                            "date": "2010-02-02",
+                                            "div": 0.1372399592176273,
+                                            "num_date": 2010.0903490759754,
+                                            "num_date_confidence": [
+                                              2010.0903490759754,
+                                              2010.0903490759754
+                                            ],
+                                            "raw_date": "2010-02-02"
+                                          },
+                                          "branch_length": 0.00230655,
+                                          "clade": 64,
+                                          "muts": [
+                                            "T150C",
+                                            "C1323T"
+                                          ],
+                                          "strain": "CY063832_Singapore_2010_02_02",
+                                          "yvalue": 8
+                                        },
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "accession": "CY060453",
+                                            "clock_length": 0.0019059096691253982,
+                                            "country": "South\u00a0Korea",
+                                            "country_confidence": {
+                                              "South\u00a0Korea": 1.0
+                                            },
+                                            "country_entropy": -1.000088900581841e-12,
+                                            "date": "2010-01-01",
+                                            "div": 0.13722891921762728,
+                                            "num_date": 2010.002737850787,
+                                            "num_date_confidence": [
+                                              2010.002737850787,
+                                              2010.0759960767593
+                                            ],
+                                            "raw_date": "2010-01-XX"
+                                          },
+                                          "branch_length": 0.00190591,
+                                          "clade": 65,
+                                          "muts": [
+                                            "C729T"
+                                          ],
+                                          "strain": "CY060453_SouthKorea_2010_01_",
+                                          "yvalue": 7
+                                        }
+                                      ],
+                                      "clade": 66,
+                                      "muts": [],
+                                      "strain": "NODE_0000038",
+                                      "yvalue": 7.5
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 0.00021641918729996268,
+                                        "country": "USA",
+                                        "country_confidence": {
+                                          "South\u00a0Korea": 0.034632551809775,
+                                          "Taiwan": 0.11640646305468723,
+                                          "Thailand": 0.08829475888467403,
+                                          "USA": 0.7586262087917232
+                                        },
+                                        "country_entropy": 0.8067252986433396,
+                                        "date": "2009-07-08",
+                                        "div": 0.1358175392176273,
+                                        "num_date": 2009.5190885012037,
+                                        "num_date_confidence": [
+                                          2009.4425083375781,
+                                          2009.575937094804
+                                        ]
+                                      },
+                                      "branch_length": 0.00021642,
+                                      "children": [
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "clock_length": 0.00026796525465055954,
+                                            "country": "USA",
+                                            "country_confidence": {
+                                              "South\u00a0Korea": 0.009938119068688862,
+                                              "Taiwan": 0.02958802946696932,
+                                              "Thailand": 0.15799266163041206,
+                                              "USA": 0.8004441507264985
+                                            },
+                                            "country_entropy": 0.6363510605310554,
+                                            "date": "2009-07-30",
+                                            "div": 0.1358175392176273,
+                                            "num_date": 2009.577686516085,
+                                            "num_date_confidence": [
+                                              2009.5011432086467,
+                                              2009.577686516085
+                                            ]
+                                          },
+                                          "branch_length": 0.00026797,
+                                          "children": [
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "accession": "GU571153",
+                                                "clock_length": 0.0014648434682990041,
+                                                "country": "USA",
+                                                "country_confidence": {
+                                                  "USA": 1.0
+                                                },
+                                                "country_entropy": -1.000088900581841e-12,
+                                                "date": "2009-11-23",
+                                                "div": 0.13652557921762729,
+                                                "num_date": 2009.8980150581792,
+                                                "num_date_confidence": [
+                                                  2009.8980150581792,
+                                                  2009.8980150581792
+                                                ],
+                                                "raw_date": "2009-11-24"
+                                              },
+                                              "branch_length": 0.00146484,
+                                              "clade": 67,
+                                              "muts": [
+                                                "A48G"
+                                              ],
+                                              "strain": "GU571153_USA_2009_11_24",
+                                              "yvalue": 6
+                                            },
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "accession": "KM013720",
+                                                "clock_length": 0.0,
+                                                "country": "Thailand",
+                                                "country_confidence": {
+                                                  "Thailand": 1.0
+                                                },
+                                                "country_entropy": -1.000088900581841e-12,
+                                                "date": "2009-07-30",
+                                                "div": 0.1358199192176273,
+                                                "num_date": 2009.577686516085,
+                                                "num_date_confidence": [
+                                                  2009.577686516085,
+                                                  2009.577686516085
+                                                ],
+                                                "raw_date": "2009-07-30"
+                                              },
+                                              "branch_length": 0.0,
+                                              "clade": 68,
+                                              "muts": [],
+                                              "strain": "KM013720_Thailand_2009_07_30",
+                                              "yvalue": 5
+                                            }
+                                          ],
+                                          "clade": 69,
+                                          "muts": [],
+                                          "strain": "NODE_0000040",
+                                          "yvalue": 5.5
+                                        },
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "clock_length": 0.0002670705530851761,
+                                            "country": "USA",
+                                            "country_confidence": {
+                                              "South\u00a0Korea": 0.011579542460829494,
+                                              "Taiwan": 0.150661863709293,
+                                              "Thailand": 0.03249202428907496,
+                                              "USA": 0.8036774277762647
+                                            },
+                                            "country_entropy": 0.6371906202506702,
+                                            "date": "2009-07-29",
+                                            "div": 0.1358175392176273,
+                                            "num_date": 2009.57749086484,
+                                            "num_date_confidence": [
+                                              2009.4163641146267,
+                                              2009.6878600535433
+                                            ]
+                                          },
+                                          "branch_length": 0.00026707,
+                                          "children": [
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "accession": "HM072406",
+                                                "clock_length": 0.0009649369841217628,
+                                                "country": "Taiwan",
+                                                "country_confidence": {
+                                                  "Taiwan": 1.0
+                                                },
+                                                "country_entropy": -1.000088900581841e-12,
+                                                "date": "2009-10-15",
+                                                "div": 0.1365262092176273,
+                                                "num_date": 2009.7885010266941,
+                                                "num_date_confidence": [
+                                                  2009.7885010266941,
+                                                  2009.7885010266941
+                                                ],
+                                                "raw_date": "2009-10-15"
+                                              },
+                                              "branch_length": 0.00096494,
+                                              "clade": 70,
+                                              "muts": [
+                                                "A996T"
+                                              ],
+                                              "strain": "HM072406_Taiwan_2009_10_15",
+                                              "yvalue": 4
+                                            },
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "clock_length": 0.00048432065856957723,
+                                                "country": "USA",
+                                                "country_confidence": {
+                                                  "Thailand": 0.005773808286371051,
+                                                  "USA": 0.9936540480227867
+                                                },
+                                                "country_entropy": 0.040671827675931374,
+                                                "date": "2009-09-06",
+                                                "div": 0.13652753921762728,
+                                                "num_date": 2009.6834009732054,
+                                                "num_date_confidence": [
+                                                  2009.4611123386862,
+                                                  2009.8459958932237
+                                                ]
+                                              },
+                                              "branch_length": 0.00048432,
+                                              "children": [
+                                                {
+                                                  "aa_muts": {
+                                                    "UJ99_s6gp1": [
+                                                      "Q43K",
+                                                      "V62L",
+                                                      "T332K"
+                                                    ]
+                                                  },
+                                                  "attr": {
+                                                    "accession": "KM013716",
+                                                    "clock_length": 0.004277315314969388,
+                                                    "country": "Thailand",
+                                                    "country_confidence": {
+                                                      "Thailand": 1.0
+                                                    },
+                                                    "country_entropy": -1.000088900581841e-12,
+                                                    "date": "2010-08-14",
+                                                    "div": 0.14080845921762727,
+                                                    "num_date": 2010.6187542778919,
+                                                    "num_date_confidence": [
+                                                      2010.6187542778919,
+                                                      2010.6187542778919
+                                                    ],
+                                                    "raw_date": "2010-08-14"
+                                                  },
+                                                  "branch_length": 0.00427732,
+                                                  "clade": 71,
+                                                  "muts": [
+                                                    "A81G",
+                                                    "C127A",
+                                                    "G184T",
+                                                    "T379C",
+                                                    "A771G",
+                                                    "C995A"
+                                                  ],
+                                                  "strain": "KM013716_Thailand_2010_08_14",
+                                                  "yvalue": 3
+                                                },
+                                                {
+                                                  "aa_muts": {},
+                                                  "attr": {
+                                                    "accession": "GU571155",
+                                                    "clock_length": 0.0007435369480668017,
+                                                    "country": "USA",
+                                                    "country_confidence": {
+                                                      "USA": 1.0
+                                                    },
+                                                    "country_entropy": -1.000088900581841e-12,
+                                                    "date": "2009-11-04",
+                                                    "div": 0.13652991921762728,
+                                                    "num_date": 2009.8459958932237,
+                                                    "num_date_confidence": [
+                                                      2009.8459958932237,
+                                                      2009.8459958932237
+                                                    ],
+                                                    "raw_date": "2009-11-05"
+                                                  },
+                                                  "branch_length": 0.00074354,
+                                                  "clade": 72,
+                                                  "muts": [],
+                                                  "strain": "GU571155_USA_2009_11_05",
+                                                  "yvalue": 2
+                                                },
+                                                {
+                                                  "aa_muts": {},
+                                                  "attr": {
+                                                    "accession": "GU571156",
+                                                    "clock_length": 0.0009688974816515067,
+                                                    "country": "USA",
+                                                    "country_confidence": {
+                                                      "USA": 1.0
+                                                    },
+                                                    "country_entropy": -1.000088900581841e-12,
+                                                    "date": "2009-11-22",
+                                                    "div": 0.13652991921762728,
+                                                    "num_date": 2009.8952772073922,
+                                                    "num_date_confidence": [
+                                                      2009.8952772073922,
+                                                      2009.8952772073922
+                                                    ],
+                                                    "raw_date": "2009-11-23"
+                                                  },
+                                                  "branch_length": 0.0009689,
+                                                  "clade": 73,
+                                                  "muts": [],
+                                                  "strain": "GU571156_USA_2009_11_23",
+                                                  "yvalue": 1
+                                                }
+                                              ],
+                                              "clade": 74,
+                                              "muts": [
+                                                "G1194A"
+                                              ],
+                                              "strain": "NODE_0000046",
+                                              "yvalue": 2.0
+                                            }
+                                          ],
+                                          "clade": 75,
+                                          "muts": [],
+                                          "strain": "NODE_0000041",
+                                          "yvalue": 3.0
+                                        }
+                                      ],
+                                      "clade": 76,
+                                      "muts": [],
+                                      "strain": "NODE_0000039",
+                                      "yvalue": 4.25
+                                    }
+                                  ],
+                                  "clade": 77,
+                                  "muts": [],
+                                  "strain": "NODE_0000037",
+                                  "yvalue": 5.875
+                                }
+                              ],
+                              "clade": 78,
+                              "muts": [],
+                              "strain": "NODE_0000036",
+                              "yvalue": 7.4375
+                            }
+                          ],
+                          "clade": 79,
+                          "muts": [],
+                          "strain": "NODE_0000034",
+                          "yvalue": 8.96875
+                        }
+                      ],
+                      "clade": 80,
+                      "muts": [],
+                      "strain": "NODE_0000032",
+                      "yvalue": 10.984375
+                    }
+                  ],
+                  "clade": 81,
+                  "muts": [],
+                  "strain": "NODE_0000026",
+                  "yvalue": 16.4921875
+                }
+              ],
+              "clade": 82,
+              "muts": [
+                "A238G"
+              ],
+              "strain": "NODE_0000025",
+              "yvalue": 19.74609375
+            }
+          ],
+          "clade": 83,
+          "muts": [],
+          "strain": "NODE_0000024",
+          "yvalue": 21.873046875
+        }
+      ],
+      "clade": 84,
+      "muts": [
+        "T12C",
+        "A33T",
+        "A36G",
+        "A37G",
+        "A40T",
+        "A45G",
+        "G46A",
+        "A57G",
+        "A58G",
+        "T59C",
+        "G62A",
+        "T63C",
+        "G69A",
+        "G72A",
+        "A78T",
+        "T84C",
+        "T87A",
+        "T90C",
+        "G100A",
+        "T105C",
+        "A118C",
+        "G125A",
+        "A133C",
+        "C135G",
+        "G140A",
+        "T143C",
+        "A156C",
+        "A157G",
+        "A165T",
+        "G176A",
+        "G186A",
+        "C192G",
+        "T204C",
+        "A209G",
+        "T216C",
+        "T219C",
+        "G220T",
+        "T224C",
+        "G232C",
+        "G235T",
+        "A236C",
+        "A239T",
+        "A240G",
+        "A241G",
+        "A243T",
+        "A246C",
+        "G255A",
+        "C258G",
+        "A267C",
+        "T273C",
+        "T276C",
+        "T277C",
+        "A280G",
+        "C302G",
+        "A303T",
+        "T324C",
+        "A333G",
+        "A336G",
+        "T342G",
+        "A354G",
+        "T360A",
+        "T372C",
+        "T375C",
+        "A377C",
+        "T396C",
+        "T399C",
+        "C411G",
+        "T414C",
+        "A417G",
+        "T418C",
+        "A435C",
+        "G441A",
+        "G445A",
+        "A447T",
+        "G450A",
+        "A456G",
+        "T459C",
+        "T462A",
+        "A466C",
+        "G468A",
+        "G469A",
+        "T472C",
+        "A489T",
+        "G501C",
+        "T513C",
+        "A518G",
+        "G519A",
+        "A525G",
+        "T531C",
+        "A534T",
+        "A549T",
+        "G564C",
+        "G565A",
+        "G566A",
+        "T571C",
+        "T591C",
+        "A603G",
+        "T606A",
+        "A615G",
+        "A621G",
+        "A630C",
+        "T639A",
+        "G641A",
+        "A642C",
+        "A648C",
+        "A651G",
+        "A659G",
+        "G663C",
+        "A666T",
+        "A672G",
+        "T695C",
+        "A700G",
+        "G702A",
+        "G708T",
+        "A711T",
+        "T714C",
+        "A721G",
+        "G738A",
+        "A742G",
+        "A745G",
+        "A746G",
+        "G747A",
+        "G748C",
+        "C750G",
+        "G756A",
+        "A762G",
+        "T765C",
+        "A770G",
+        "G771A",
+        "G783A",
+        "G787A",
+        "T789A",
+        "A790G",
+        "T792C",
+        "A799G",
+        "A801C",
+        "G804A",
+        "T805A",
+        "A813C",
+        "T821A",
+        "T825C",
+        "A849T",
+        "A853T",
+        "G856A",
+        "A859G",
+        "T860A",
+        "G862A",
+        "G864C",
+        "T866C",
+        "G867A",
+        "A873G",
+        "T894C",
+        "A897G",
+        "T906G",
+        "T918C",
+        "T921C",
+        "A924G",
+        "T928C",
+        "T933A",
+        "A939G",
+        "A960G",
+        "G961A",
+        "G963T",
+        "T966C",
+        "T969A",
+        "G978A",
+        "T981C",
+        "G985A",
+        "A987T",
+        "G991A",
+        "G992A",
+        "A993G",
+        "G994A",
+        "A995C",
+        "G996A",
+        "A1006G",
+        "A1007G",
+        "G1014A",
+        "A1015T",
+        "T1017G",
+        "G1018T",
+        "T1019C",
+        "G1021A",
+        "G1044A",
+        "A1052T",
+        "T1059C",
+        "T1062C",
+        "T1092C",
+        "A1094T",
+        "A1098T",
+        "T1100C",
+        "T1101A",
+        "G1107C",
+        "G1110T",
+        "T1131G",
+        "T1134C",
+        "A1143T",
+        "A1144G",
+        "A1145G",
+        "T1146G",
+        "G1154A",
+        "G1156A",
+        "T1158C",
+        "G1165A",
+        "G1167A",
+        "A1170G",
+        "G1173A",
+        "G1177A",
+        "T1179C",
+        "C1184G",
+        "T1194G",
+        "G1203A",
+        "A1212G",
+        "A1224G",
+        "T1230A",
+        "G1233A",
+        "T1234C",
+        "A1242G",
+        "T1243C",
+        "G1275A",
+        "T1276C",
+        "G1279A",
+        "T1289G",
+        "G1290A",
+        "T1293C",
+        "G1295A",
+        "A1299G",
+        "T1302C",
+        "T1317C",
+        "T1329A",
+        "T1332C",
+        "T1344A",
+        "T1347C",
+        "T1353C",
+        "A1359G",
+        "A1360G",
+        "A1361G",
+        "G1392A"
+      ],
+      "strain": "NODE_0000021",
+      "yvalue": 24.0615234375
+    }
+  ],
+  "clade": 85,
+  "muts": [],
+  "strain": "NODE_0000005",
+  "yvalue": 35.37060546875
+}

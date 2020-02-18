@@ -1,0 +1,618 @@
+{
+  "annotations": {
+    "UJ99_s6gp1": {
+      "end": 1410,
+      "seqid": "config/reference.gb",
+      "start": 1,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "nuc": {
+      "end": 1410,
+      "seqid": "config/reference.gb",
+      "start": 1,
+      "strand": "+",
+      "type": "source"
+    }
+  },
+  "generated_by": {
+    "program": "augur",
+    "version": "6.2.0"
+  },
+  "nodes": {
+    "AB537490_Japan_2009_10_27": {
+      "aa_muts": {
+        "UJ99_s6gp1": [
+          "G382E"
+        ]
+      }
+    },
+    "CY060453_SouthKorea_2010_01_": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "CY060467_SouthKorea_2009_11_22": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "CY060488_SouthKorea_2009_12_09": {
+      "aa_muts": {
+        "UJ99_s6gp1": [
+          "D113N"
+        ]
+      }
+    },
+    "CY060494_SouthKorea_2009_12_15": {
+      "aa_muts": {
+        "UJ99_s6gp1": [
+          "I117M"
+        ]
+      }
+    },
+    "CY060497_SouthKorea_2009_12_16": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "CY063832_Singapore_2010_02_02": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "CY064253_China_2009_08_": {
+      "aa_muts": {
+        "UJ99_s6gp1": [
+          "A250T",
+          "I287M"
+        ]
+      }
+    },
+    "CY064292_China_2009_04_": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "CY064328_China_2009_04_": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "CY064331_China_2009_04_": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "CY064334_China_2009_04_": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "CY064361_China_2009_05_": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "CY082965_Thailand_2010_08_31": {
+      "aa_muts": {
+        "UJ99_s6gp1": [
+          "S176L",
+          "A251T"
+        ]
+      }
+    },
+    "CY087300_HongKong_2009_06_19": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "CY118259_Malaysia_2009_09_10": {
+      "aa_muts": {
+        "UJ99_s6gp1": [
+          "L24V",
+          "S42I"
+        ]
+      }
+    },
+    "CY128066_VietNam_2009_09_01": {
+      "aa_muts": {
+        "UJ99_s6gp1": [
+          "Y275H"
+        ]
+      }
+    },
+    "CY128077_VietNam_2009_07_24": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "CY128093_VietNam_2009_07_25": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "CY128429_VietNam_2009_12_02": {
+      "aa_muts": {
+        "UJ99_s6gp1": [
+          "K84R"
+        ]
+      }
+    },
+    "GQ896361_USA_2009_05_18": {
+      "aa_muts": {
+        "UJ99_s6gp1": [
+          "N28S",
+          "G214E"
+        ]
+      }
+    },
+    "GQ896367_USA_2009_05_22": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "GQ902803_Thailand_2009_06_16": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "GQ902835_Thailand_2009_06_18": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "GU014807_Japan_2009_07_18": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "GU183801_Thailand_2009_07_10": {
+      "aa_muts": {
+        "UJ99_s6gp1": [
+          "T264S"
+        ]
+      }
+    },
+    "GU271952_Thailand_2009_06_22": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "GU571153_USA_2009_11_24": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "GU571155_USA_2009_11_05": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "GU571156_USA_2009_11_23": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "GU931685_Singapore_2009_05_": {
+      "aa_muts": {
+        "UJ99_s6gp1": [
+          "L85M"
+        ]
+      }
+    },
+    "HM072404_Taiwan_2009_09_04": {
+      "aa_muts": {
+        "UJ99_s6gp1": [
+          "S52N"
+        ]
+      }
+    },
+    "HM072405_Taiwan_2009_09_04": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "HM072406_Taiwan_2009_10_15": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "HM598322_Thailand_2010_01_04": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "HQ256609_Myanmar_2009_06_27": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "HQ256613_Myanmar_2009_07_04": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "HQ256625_Myanmar_2009_08_13": {
+      "aa_muts": {
+        "UJ99_s6gp1": [
+          "A250T"
+        ]
+      }
+    },
+    "HQ256643_Myanmar_2009_08_11": {
+      "aa_muts": {
+        "UJ99_s6gp1": [
+          "N88Y",
+          "Y155F"
+        ]
+      }
+    },
+    "HQ286422_Japan_2010_01_18": {
+      "aa_muts": {
+        "UJ99_s6gp1": [
+          "N307D"
+        ]
+      }
+    },
+    "HQ286423_Japan_2010_01_18": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "HQ286429_Japan_2010_01_18": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "JN676131_Thailand_2009_10_06": {
+      "aa_muts": {
+        "UJ99_s6gp1": [
+          "I396M"
+        ]
+      }
+    },
+    "KJ909524_India_2009_09_14": {
+      "aa_muts": {
+        "UJ99_s6gp1": [
+          "T81N",
+          "V116I",
+          "V177I",
+          "D199G",
+          "I267V"
+        ]
+      }
+    },
+    "KM013715_Thailand_2010_08_08": {
+      "aa_muts": {
+        "UJ99_s6gp1": [
+          "T9I",
+          "N44S",
+          "V241I"
+        ]
+      }
+    },
+    "KM013716_Thailand_2010_08_14": {
+      "aa_muts": {
+        "UJ99_s6gp1": [
+          "Q43K",
+          "V62L",
+          "T332K"
+        ]
+      }
+    },
+    "KM013720_Thailand_2009_07_30": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "KP637536_Thailand_2009_07_29": {
+      "aa_muts": {
+        "UJ99_s6gp1": [
+          "M23I",
+          "I436V"
+        ]
+      }
+    },
+    "KP637792_Thailand_2009_07_02": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "NODE_0000000": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "NODE_0000001": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "NODE_0000002": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "NODE_0000003": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "NODE_0000004": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "NODE_0000005": {
+      "aa_muts": {},
+      "aa_sequences": {
+        "UJ99_s6gp1": "MNPNQKIITIGSISIAIGIISLMLQIGNIISIWVSHSIQIGSQNNIGICNQRIITYENSTWVNHTYVNINNTNVVAGEEKISVKLAGNSSLCSISGWAIYTKDNSIRIGSKGDVFVIREPFISCSHLECRTFFLTQGALLNDKHSNGTVKDRSPYRALMSCPIGEVPSPYNSKFESVAWSASACHDGMGWLTIGISGPDNGAVAVLKYNGIITGTIKSWKKKILRTQESECVCMNGSCFTIMTDGPSNKDASYKIFKIEKGKVIKSIELNAPNFYYEECSCYPDTGIVMCVCRDNWHGSNRPWVSFNQNLDYQIGYICSGVFGDNPRPEDGEGSCNPVTVDGANGVKGFSYKYGNGVWIGRTKSNRFRKGFEMIWDPNGWTNTDSDFSVKQDVVAINDWSGYSGSFVQHPELTGLDCIRPCFWVELVRGLPRENTIWTSGSSISFCGVNSDTVNWSWPDGAELPFTIDKK"
+      }
+    },
+    "NODE_0000006": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "NODE_0000007": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "NODE_0000008": {
+      "aa_muts": {
+        "UJ99_s6gp1": [
+          "I7V"
+        ]
+      }
+    },
+    "NODE_0000009": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "NODE_0000010": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "NODE_0000011": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "NODE_0000012": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "NODE_0000013": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "NODE_0000014": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "NODE_0000016": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "NODE_0000017": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "NODE_0000018": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "NODE_0000020": {
+      "aa_muts": {
+        "UJ99_s6gp1": [
+          "V34A",
+          "I40T",
+          "I46T",
+          "E79D",
+          "I81T",
+          "K84T",
+          "I163L",
+          "V166A",
+          "K222Q",
+          "D250A",
+          "I264T",
+          "F367L",
+          "N397T",
+          "V453A"
+        ]
+      }
+    },
+    "NODE_0000021": {
+      "aa_muts": {
+        "UJ99_s6gp1": [
+          "I13V",
+          "S14C",
+          "I15M",
+          "A16T",
+          "I19M",
+          "I20A",
+          "S21N",
+          "M23I",
+          "V34I",
+          "I40L",
+          "S42N",
+          "N45Q",
+          "G47E",
+          "I48T",
+          "R52S",
+          "I53V",
+          "S59N",
+          "H64Q",
+          "N70S",
+          "V74F",
+          "V75A",
+          "E78Q",
+          "E79S",
+          "K80M",
+          "I81V",
+          "S93P",
+          "I94V",
+          "T101S",
+          "H126P",
+          "V149I",
+          "A157T",
+          "K173R",
+          "M188I",
+          "G189N",
+          "G214D",
+          "K220R",
+          "K221N",
+          "K222N",
+          "V232A",
+          "M234V",
+          "I241V",
+          "N248D",
+          "K249G",
+          "D250Q",
+          "K257R",
+          "V263I",
+          "I264V",
+          "I267V",
+          "L269M",
+          "F274Y",
+          "T285S",
+          "G286S",
+          "I287E",
+          "V288I",
+          "M289T",
+          "D311E",
+          "V321I",
+          "E329N",
+          "G331K",
+          "E332T",
+          "N336G",
+          "T339S",
+          "V340S",
+          "D341N",
+          "Y351F",
+          "N365I",
+          "R366S",
+          "F367S",
+          "K369N",
+          "N382G",
+          "S385N",
+          "D386N",
+          "V389I",
+          "V393I",
+          "A395G",
+          "D398E",
+          "V427I",
+          "L430R",
+          "R432K",
+          "N454G"
+        ]
+      }
+    },
+    "NODE_0000022": {
+      "aa_muts": {
+        "UJ99_s6gp1": [
+          "S82P"
+        ]
+      }
+    },
+    "NODE_0000024": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "NODE_0000025": {
+      "aa_muts": {
+        "UJ99_s6gp1": [
+          "M80V"
+        ]
+      }
+    },
+    "NODE_0000026": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "NODE_0000027": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "NODE_0000029": {
+      "aa_muts": {
+        "UJ99_s6gp1": [
+          "A86T"
+        ]
+      }
+    },
+    "NODE_0000032": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "NODE_0000034": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "NODE_0000035": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "NODE_0000036": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "NODE_0000037": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "NODE_0000038": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "NODE_0000039": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "NODE_0000040": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "NODE_0000041": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    },
+    "NODE_0000042": {
+      "aa_muts": {
+        "UJ99_s6gp1": [
+          "N369K"
+        ]
+      }
+    },
+    "NODE_0000046": {
+      "aa_muts": {
+        "UJ99_s6gp1": []
+      }
+    }
+  },
+  "reference": {
+    "UJ99_s6gp1": "MNPNQKIITIGSISIAIGIISLMLQIGNIISIWVSHSIQIGSQNNIGICNQRIITYENSTWVNHTYVNINNTNVVAGEEKISVKLAGNSSLCSISGWAIYTKDNSIRIGSKGDVFVIREPFISCSHLECRTFFLTQGALLNDKHSNGTVKDRSPYRALMSCPIGEVPSPYNSKFESVAWSASACHDGMGWLTIGISGPDNGAVAVLKYNGIITGTIKSWKKKILRTQESECVCMNGSCFTIMTDGPSNKDASYKIFKIEKGKVIKSIELNAPNFYYEECSCYPDTGIVMCVCRDNWHGSNRPWVSFNQNLDYQIGYICSGVFGDNPRPEDGEGSCNPVTVDGANGVKGFSYKYGNGVWIGRTKSNRFRKGFEMIWDPNGWTNTDSDFSVKQDVVAINDWSGYSGSFVQHPELTGLDCIRPCFWVELVRGLPRENTIWTSGSSISFCGVNSDTVNWSWPDGAELPFTIDKK"
+  }
+}

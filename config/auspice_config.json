@@ -1,0 +1,22 @@
+{
+  "title": "2009 Flu Pandemic Drug Resistance In Asia",
+  "color_options": {
+    "num_date": {"menuItem": "date", "legendTitle": "Sampling date", "type": "continuous"},
+    "country": {"legendTitle":"Country", "type":"discrete"}
+  },
+  "geo": [
+    "country"
+  ],
+  "maintainer": [
+    "JiyeKwon",
+    "Add your github link repository here"
+  ],
+  "filters": [
+    "country"
+  ],
+  "defaults": {
+   "colorBy": "country",
+   "mapTriplicate": false,
+   "geoResolution": "country"
+ }
+}

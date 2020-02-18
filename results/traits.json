@@ -1,0 +1,877 @@
+{
+  "generated_by": {
+    "program": "augur",
+    "version": "6.2.0"
+  },
+  "models": {
+    "country": {
+      "alphabet": [
+        "China",
+        "Hong\u00a0Kong",
+        "India",
+        "Japan",
+        "Malaysia",
+        "Myanmar",
+        "Singapore",
+        "South\u00a0Korea",
+        "Taiwan",
+        "Thailand",
+        "USA",
+        "Viet\u00a0Nam",
+        "?"
+      ],
+      "equilibrium_probabilities": [
+        0.10471107395511262,
+        0.07952798133998562,
+        0.08099386022526683,
+        0.08756664616210372,
+        0.08097334887604968,
+        0.08047333050397319,
+        0.08549947713792838,
+        0.07949360621543942,
+        0.08929708792922994,
+        0.08227698553103516,
+        0.07816602692430469,
+        0.07102057519957082
+      ],
+      "rate": 57.22254734242967,
+      "transition_matrix": [
+        [
+          -9.419666770727023,
+          0.9245700850353133,
+          0.9757364959839658,
+          1.220164356123976,
+          0.9762347129077679,
+          0.9242852630116977,
+          0.9241596844124071,
+          0.9238628181675044,
+          0.9463611351269805,
+          2.1949323423044897,
+          1.089995337367181,
+          0.9962449067404997
+        ],
+        [
+          0.9245700850353133,
+          -11.163206061451794,
+          0.9269015485927691,
+          1.074164745629715,
+          0.926901854285354,
+          0.9267546638108124,
+          0.9269008227502804,
+          0.9264753503209655,
+          0.9267602453436802,
+          0.9252619554162411,
+          0.9264195416348266,
+          1.2392057296454664
+        ],
+        [
+          0.9757364959839658,
+          0.9269015485927691,
+          -11.159178786064158,
+          0.9249388478847647,
+          1.160362620933802,
+          0.9267242574533685,
+          0.9268683491766686,
+          0.9263283149512667,
+          0.9267203826268428,
+          1.0466221492864742,
+          1.1628486581249622,
+          0.9260072819825704
+        ],
+        [
+          1.220164356123976,
+          1.074164745629715,
+          0.9249388478847647,
+          -11.96053649719882,
+          0.924939605006173,
+          0.9248057061549906,
+          0.9247847069450346,
+          1.2217440775715598,
+          1.1673827632338953,
+          1.2266986822290031,
+          0.9247319624009,
+          2.2004348267830616
+        ],
+        [
+          0.9762347129077679,
+          0.926901854285354,
+          1.160362620933802,
+          0.924939605006173,
+          -11.165247911560533,
+          0.9267249655009366,
+          0.9268690428136942,
+          0.9263285802831147,
+          0.9267197245218665,
+          1.0475401392115193,
+          1.1642668597210382,
+          0.9260076244684706
+        ],
+        [
+          0.9242852630116977,
+          0.9267546638108124,
+          0.9267242574533685,
+          0.9248057061549906,
+          0.9267249655009366,
+          -11.053137821320277,
+          0.926714464710775,
+          0.9261850248213124,
+          0.9265618093518131,
+          1.387505581323837,
+          0.9262438777490207,
+          0.9258810984665067
+        ],
+        [
+          0.9241596844124071,
+          0.9269008227502804,
+          0.9268683491766686,
+          0.9247847069450346,
+          0.9268690428136942,
+          0.926714464710775,
+          -10.783845283935197,
+          1.3849632897822228,
+          0.9306066604941241,
+          1.3890788110423913,
+          0.9287499514727146,
+          0.9260456721637393
+        ],
+        [
+          0.9238628181675044,
+          0.9264753503209655,
+          0.9263283149512667,
+          1.2217440775715598,
+          0.9263285802831147,
+          0.9261850248213124,
+          1.3849632897822228,
+          -13.537718362929303,
+          1.3868372791531278,
+          1.3842158571319505,
+          1.3815052957972882,
+          1.5496995895966665
+        ],
+        [
+          0.9463611351269805,
+          0.9267602453436802,
+          0.9267203826268428,
+          1.1673827632338953,
+          0.9267197245218665,
+          0.9265618093518131,
+          0.9306066604941241,
+          1.3868372791531278,
+          -10.800100628621808,
+          1.0043894524126822,
+          1.3938169919988426,
+          1.1734029433010036
+        ],
+        [
+          2.1949323423044897,
+          0.9252619554162411,
+          1.0466221492864742,
+          1.2266986822290031,
+          1.0475401392115193,
+          1.387505581323837,
+          1.3890788110423913,
+          1.3842158571319505,
+          1.0043894524126822,
+          -15.277402882482116,
+          2.15706431447901,
+          1.0953559388759122
+        ],
+        [
+          1.089995337367181,
+          0.9264195416348266,
+          1.1628486581249622,
+          0.9247319624009,
+          1.1642668597210382,
+          0.9262438777490207,
+          0.9287499514727146,
+          1.3815052957972882,
+          1.3938169919988426,
+          2.15706431447901,
+          -13.928277885941975,
+          0.9260199599318761
+        ],
+        [
+          0.9962449067404997,
+          1.2392057296454664,
+          0.9260072819825704,
+          2.2004348267830616,
+          0.9260076244684706,
+          0.9258810984665067,
+          0.9260456721637393,
+          1.5496995895966665,
+          1.1734029433010036,
+          1.0953559388759122,
+          0.9260199599318761,
+          -15.343450244912733
+        ]
+      ]
+    }
+  },
+  "nodes": {
+    "AB537490_Japan_2009_10_27": {
+      "country": "Japan",
+      "country_confidence": {
+        "Japan": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "CY060453_SouthKorea_2010_01_": {
+      "country": "South\u00a0Korea",
+      "country_confidence": {
+        "South\u00a0Korea": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "CY060467_SouthKorea_2009_11_22": {
+      "country": "South\u00a0Korea",
+      "country_confidence": {
+        "South\u00a0Korea": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "CY060488_SouthKorea_2009_12_09": {
+      "country": "South\u00a0Korea",
+      "country_confidence": {
+        "South\u00a0Korea": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "CY060494_SouthKorea_2009_12_15": {
+      "country": "South\u00a0Korea",
+      "country_confidence": {
+        "South\u00a0Korea": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "CY060497_SouthKorea_2009_12_16": {
+      "country": "South\u00a0Korea",
+      "country_confidence": {
+        "South\u00a0Korea": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "CY063832_Singapore_2010_02_02": {
+      "country": "Singapore",
+      "country_confidence": {
+        "Singapore": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "CY064253_China_2009_08_": {
+      "country": "China",
+      "country_confidence": {
+        "China": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "CY064292_China_2009_04_": {
+      "country": "China",
+      "country_confidence": {
+        "China": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "CY064328_China_2009_04_": {
+      "country": "China",
+      "country_confidence": {
+        "China": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "CY064331_China_2009_04_": {
+      "country": "China",
+      "country_confidence": {
+        "China": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "CY064334_China_2009_04_": {
+      "country": "China",
+      "country_confidence": {
+        "China": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "CY064361_China_2009_05_": {
+      "country": "China",
+      "country_confidence": {
+        "China": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "CY082965_Thailand_2010_08_31": {
+      "country": "Thailand",
+      "country_confidence": {
+        "Thailand": 0.9999999999999999
+      },
+      "country_entropy": -9.99866855976916e-13
+    },
+    "CY087300_HongKong_2009_06_19": {
+      "country": "Hong\u00a0Kong",
+      "country_confidence": {
+        "Hong\u00a0Kong": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "CY118259_Malaysia_2009_09_10": {
+      "country": "Malaysia",
+      "country_confidence": {
+        "Malaysia": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "CY128066_VietNam_2009_09_01": {
+      "country": "Viet\u00a0Nam",
+      "country_confidence": {
+        "Viet\u00a0Nam": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "CY128077_VietNam_2009_07_24": {
+      "country": "Viet\u00a0Nam",
+      "country_confidence": {
+        "Viet\u00a0Nam": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "CY128093_VietNam_2009_07_25": {
+      "country": "Viet\u00a0Nam",
+      "country_confidence": {
+        "Viet\u00a0Nam": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "CY128429_VietNam_2009_12_02": {
+      "country": "Viet\u00a0Nam",
+      "country_confidence": {
+        "Viet\u00a0Nam": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "GQ896361_USA_2009_05_18": {
+      "country": "USA",
+      "country_confidence": {
+        "USA": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "GQ896367_USA_2009_05_22": {
+      "country": "USA",
+      "country_confidence": {
+        "USA": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "GQ902803_Thailand_2009_06_16": {
+      "country": "Thailand",
+      "country_confidence": {
+        "Thailand": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "GQ902835_Thailand_2009_06_18": {
+      "country": "Thailand",
+      "country_confidence": {
+        "Thailand": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "GU014807_Japan_2009_07_18": {
+      "country": "Japan",
+      "country_confidence": {
+        "Japan": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "GU183801_Thailand_2009_07_10": {
+      "country": "Thailand",
+      "country_confidence": {
+        "Thailand": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "GU271952_Thailand_2009_06_22": {
+      "country": "Thailand",
+      "country_confidence": {
+        "Thailand": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "GU571153_USA_2009_11_24": {
+      "country": "USA",
+      "country_confidence": {
+        "USA": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "GU571155_USA_2009_11_05": {
+      "country": "USA",
+      "country_confidence": {
+        "USA": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "GU571156_USA_2009_11_23": {
+      "country": "USA",
+      "country_confidence": {
+        "USA": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "GU931685_Singapore_2009_05_": {
+      "country": "Singapore",
+      "country_confidence": {
+        "Singapore": 0.9999999999999999
+      },
+      "country_entropy": -9.99866855976916e-13
+    },
+    "HM072404_Taiwan_2009_09_04": {
+      "country": "Taiwan",
+      "country_confidence": {
+        "Taiwan": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "HM072405_Taiwan_2009_09_04": {
+      "country": "Taiwan",
+      "country_confidence": {
+        "Taiwan": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "HM072406_Taiwan_2009_10_15": {
+      "country": "Taiwan",
+      "country_confidence": {
+        "Taiwan": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "HM598322_Thailand_2010_01_04": {
+      "country": "Thailand",
+      "country_confidence": {
+        "Thailand": 0.9999999999999999
+      },
+      "country_entropy": -9.99866855976916e-13
+    },
+    "HQ256609_Myanmar_2009_06_27": {
+      "country": "Myanmar",
+      "country_confidence": {
+        "Myanmar": 0.9999999999999999
+      },
+      "country_entropy": -9.99866855976916e-13
+    },
+    "HQ256613_Myanmar_2009_07_04": {
+      "country": "Myanmar",
+      "country_confidence": {
+        "Myanmar": 0.9999999999999999
+      },
+      "country_entropy": -9.99866855976916e-13
+    },
+    "HQ256625_Myanmar_2009_08_13": {
+      "country": "Myanmar",
+      "country_confidence": {
+        "Myanmar": 0.9999999999999999
+      },
+      "country_entropy": -9.99866855976916e-13
+    },
+    "HQ256643_Myanmar_2009_08_11": {
+      "country": "Myanmar",
+      "country_confidence": {
+        "Myanmar": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "HQ286422_Japan_2010_01_18": {
+      "country": "Japan",
+      "country_confidence": {
+        "Japan": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "HQ286423_Japan_2010_01_18": {
+      "country": "Japan",
+      "country_confidence": {
+        "Japan": 0.9999999999999999
+      },
+      "country_entropy": -9.99866855976916e-13
+    },
+    "HQ286429_Japan_2010_01_18": {
+      "country": "Japan",
+      "country_confidence": {
+        "Japan": 0.9999999999999999
+      },
+      "country_entropy": -9.99866855976916e-13
+    },
+    "JN676131_Thailand_2009_10_06": {
+      "country": "Thailand",
+      "country_confidence": {
+        "Thailand": 0.9999999999999999
+      },
+      "country_entropy": -9.99866855976916e-13
+    },
+    "KJ909524_India_2009_09_14": {
+      "country": "India",
+      "country_confidence": {
+        "India": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "KM013715_Thailand_2010_08_08": {
+      "country": "Thailand",
+      "country_confidence": {
+        "Thailand": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "KM013716_Thailand_2010_08_14": {
+      "country": "Thailand",
+      "country_confidence": {
+        "Thailand": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "KM013720_Thailand_2009_07_30": {
+      "country": "Thailand",
+      "country_confidence": {
+        "Thailand": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "KP637536_Thailand_2009_07_29": {
+      "country": "Thailand",
+      "country_confidence": {
+        "Thailand": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "KP637792_Thailand_2009_07_02": {
+      "country": "Thailand",
+      "country_confidence": {
+        "Thailand": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "NODE_0000000": {
+      "country": "Thailand",
+      "country_confidence": {
+        "China": 0.0032297378829823204,
+        "Thailand": 0.9913789549382578,
+        "USA": 0.004718815668825213
+      },
+      "country_entropy": 0.0584536138802293
+    },
+    "NODE_0000001": {
+      "country": "Thailand",
+      "country_confidence": {
+        "China": 0.1170719428602342,
+        "Malaysia": 0.015597094979781321,
+        "Thailand": 0.6675648458711906,
+        "USA": 0.17767845176714095
+      },
+      "country_entropy": 1.0035957124215507
+    },
+    "NODE_0000002": {
+      "country": "USA",
+      "country_confidence": {
+        "India": 0.054513884995008484,
+        "Malaysia": 0.0555261534424525,
+        "Thailand": 0.28033185951972267,
+        "USA": 0.5566251878844526
+      },
+      "country_entropy": 1.1971808962475645
+    },
+    "NODE_0000003": {
+      "country": "USA",
+      "country_confidence": {
+        "Thailand": 0.006094865452208651,
+        "USA": 0.9917300401951026
+      },
+      "country_entropy": 0.055927432286361975
+    },
+    "NODE_0000004": {
+      "country": "USA",
+      "country_confidence": {
+        "India": 0.2200152546615977,
+        "Malaysia": 0.22396321325152868,
+        "Thailand": 0.16601845394365197,
+        "USA": 0.34166999241532703
+      },
+      "country_entropy": 1.5491788163443503
+    },
+    "NODE_0000005": {
+      "country": "China",
+      "country_confidence": {
+        "China": 0.10507470726645234,
+        "Japan": 0.08775389934027177,
+        "Singapore": 0.08538432273411765,
+        "Taiwan": 0.08924350793249469
+      },
+      "country_entropy": 2.480515692375035
+    },
+    "NODE_0000006": {
+      "country": "China",
+      "country_confidence": {
+        "China": 0.9992076021752669
+      },
+      "country_entropy": 0.0067047055724943705
+    },
+    "NODE_0000007": {
+      "country": "China",
+      "country_confidence": {
+        "China": 0.9999863070837537
+      },
+      "country_entropy": 0.00017807750802146274
+    },
+    "NODE_0000008": {
+      "country": "Thailand",
+      "country_confidence": {
+        "China": 0.01775679262218431,
+        "Thailand": 0.9819071144775842
+      },
+      "country_entropy": 0.09291148219834366
+    },
+    "NODE_0000009": {
+      "country": "Thailand",
+      "country_confidence": {
+        "Thailand": 0.9999835895529976
+      },
+      "country_entropy": 0.00019805033994902375
+    },
+    "NODE_0000010": {
+      "country": "Thailand",
+      "country_confidence": {
+        "Thailand": 0.9994348929326147
+      },
+      "country_entropy": 0.005300678184573534
+    },
+    "NODE_0000011": {
+      "country": "Thailand",
+      "country_confidence": {
+        "Thailand": 0.9998508374315723
+      },
+      "country_entropy": 0.0015705154330713927
+    },
+    "NODE_0000012": {
+      "country": "Thailand",
+      "country_confidence": {
+        "Myanmar": 0.008572909895066693,
+        "Thailand": 0.991007911728331
+      },
+      "country_entropy": 0.053875323764317064
+    },
+    "NODE_0000013": {
+      "country": "Myanmar",
+      "country_confidence": {
+        "Myanmar": 0.9999490230759137
+      },
+      "country_entropy": 0.0005623432435744263
+    },
+    "NODE_0000014": {
+      "country": "Thailand",
+      "country_confidence": {
+        "Singapore": 0.011543547751665339,
+        "Thailand": 0.9877806208242064
+      },
+      "country_entropy": 0.06989408010439646
+    },
+    "NODE_0000016": {
+      "country": "Thailand",
+      "country_confidence": {
+        "China": 0.044632560645816485,
+        "Thailand": 0.9544464020808092
+      },
+      "country_entropy": 0.1917040163648992
+    },
+    "NODE_0000017": {
+      "country": "China",
+      "country_confidence": {
+        "China": 0.8268295682643126,
+        "Thailand": 0.17046383074795884
+      },
+      "country_entropy": 0.4808802913349387
+    },
+    "NODE_0000018": {
+      "country": "Myanmar",
+      "country_confidence": {
+        "Myanmar": 0.9999985261769131
+      },
+      "country_entropy": 2.428630728407e-05
+    },
+    "NODE_0000020": {
+      "country": "China",
+      "country_confidence": {
+        "China": 0.8628774807435904,
+        "Japan": 0.0011561973895079835,
+        "Thailand": 0.12858255157185491,
+        "USA": 0.001432904687509855
+      },
+      "country_entropy": 0.45103332599653706
+    },
+    "NODE_0000021": {
+      "country": "Japan",
+      "country_confidence": {
+        "Japan": 0.664510562096092,
+        "Taiwan": 0.037277724837571136,
+        "Thailand": 0.04737209392603748,
+        "Viet\u00a0Nam": 0.2274859845278758
+      },
+      "country_entropy": 1.0096236975784816
+    },
+    "NODE_0000022": {
+      "country": "Japan",
+      "country_confidence": {
+        "Japan": 0.9960825460218325,
+        "Viet\u00a0Nam": 0.0030115450504565535
+      },
+      "country_entropy": 0.029243639831958018
+    },
+    "NODE_0000024": {
+      "country": "Japan",
+      "country_confidence": {
+        "Japan": 0.48977696932934334,
+        "Taiwan": 0.0572981552414415,
+        "Thailand": 0.07448706317873444,
+        "Viet\u00a0Nam": 0.3553632334591847
+      },
+      "country_entropy": 1.2063009612464706
+    },
+    "NODE_0000025": {
+      "country": "Viet\u00a0Nam",
+      "country_confidence": {
+        "Japan": 0.3307075089189913,
+        "Taiwan": 0.09088312986335999,
+        "Thailand": 0.02966022189162732,
+        "Viet\u00a0Nam": 0.5331771569033797
+      },
+      "country_entropy": 1.1174647335057182
+    },
+    "NODE_0000026": {
+      "country": "Viet\u00a0Nam",
+      "country_confidence": {
+        "Japan": 0.19741786230323727,
+        "South\u00a0Korea": 0.003185721044998892,
+        "Viet\u00a0Nam": 0.7992676120703222
+      },
+      "country_entropy": 0.5189863685750888
+    },
+    "NODE_0000027": {
+      "country": "Japan",
+      "country_confidence": {
+        "Japan": 0.9998995641254756
+      },
+      "country_entropy": 0.0011088304490857548
+    },
+    "NODE_0000029": {
+      "country": "South\u00a0Korea",
+      "country_confidence": {
+        "South\u00a0Korea": 0.999986978684147
+      },
+      "country_entropy": 0.00017914779508638768
+    },
+    "NODE_0000032": {
+      "country": "South\u00a0Korea",
+      "country_confidence": {
+        "South\u00a0Korea": 0.7637859358524195,
+        "Taiwan": 0.035299134000481944,
+        "Thailand": 0.07392503650955529,
+        "Viet\u00a0Nam": 0.08531879536231927
+      },
+      "country_entropy": 0.9081326983567759
+    },
+    "NODE_0000034": {
+      "country": "South\u00a0Korea",
+      "country_confidence": {
+        "South\u00a0Korea": 0.6338242992195261,
+        "Taiwan": 0.08962478991736937,
+        "Thailand": 0.19603550592347324,
+        "USA": 0.035550260448607186
+      },
+      "country_entropy": 1.1333931623475682
+    },
+    "NODE_0000035": {
+      "country": "Viet\u00a0Nam",
+      "country_confidence": {
+        "Viet\u00a0Nam": 0.9992666893961808
+      },
+      "country_entropy": 0.006240625569804796
+    },
+    "NODE_0000036": {
+      "country": "South\u00a0Korea",
+      "country_confidence": {
+        "South\u00a0Korea": 0.5819649198231756,
+        "Taiwan": 0.21630678073310786,
+        "Thailand": 0.1113777321924249,
+        "USA": 0.07093558375217973
+      },
+      "country_entropy": 1.1814151411777982
+    },
+    "NODE_0000037": {
+      "country": "South\u00a0Korea",
+      "country_confidence": {
+        "South\u00a0Korea": 0.5913901887518532,
+        "Taiwan": 0.15002794403486336,
+        "Thailand": 0.09053852030885487,
+        "USA": 0.14304955828944033
+      },
+      "country_entropy": 1.205626140450486
+    },
+    "NODE_0000038": {
+      "country": "South\u00a0Korea",
+      "country_confidence": {
+        "Singapore": 0.09900839837916625,
+        "South\u00a0Korea": 0.7122365664794821,
+        "Taiwan": 0.06893312685225891,
+        "USA": 0.06531963395501314
+      },
+      "country_entropy": 1.0273570276137813
+    },
+    "NODE_0000039": {
+      "country": "USA",
+      "country_confidence": {
+        "South\u00a0Korea": 0.034632551809775,
+        "Taiwan": 0.11640646305468723,
+        "Thailand": 0.08829475888467403,
+        "USA": 0.7586262087917232
+      },
+      "country_entropy": 0.8067252986433396
+    },
+    "NODE_0000040": {
+      "country": "USA",
+      "country_confidence": {
+        "South\u00a0Korea": 0.009938119068688862,
+        "Taiwan": 0.02958802946696932,
+        "Thailand": 0.15799266163041206,
+        "USA": 0.8004441507264985
+      },
+      "country_entropy": 0.6363510605310554
+    },
+    "NODE_0000041": {
+      "country": "USA",
+      "country_confidence": {
+        "South\u00a0Korea": 0.011579542460829494,
+        "Taiwan": 0.150661863709293,
+        "Thailand": 0.03249202428907496,
+        "USA": 0.8036774277762647
+      },
+      "country_entropy": 0.6371906202506702
+    },
+    "NODE_0000042": {
+      "country": "Thailand",
+      "country_confidence": {
+        "South\u00a0Korea": 0.053143889709849255,
+        "Taiwan": 0.006355975723970313,
+        "Thailand": 0.9274709282311573,
+        "USA": 0.005499043389309063
+      },
+      "country_entropy": 0.3369823603933402
+    },
+    "NODE_0000046": {
+      "country": "USA",
+      "country_confidence": {
+        "Thailand": 0.005773808286371051,
+        "USA": 0.9936540480227867
+      },
+      "country_entropy": 0.040671827675931374
+    }
+  }
+}

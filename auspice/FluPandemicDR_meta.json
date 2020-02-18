@@ -1,0 +1,151 @@
+{
+  "annotations": {
+    "UJ99_s6gp1": {
+      "end": 1410,
+      "start": 0,
+      "strand": 1
+    },
+    "nuc": {
+      "end": 1410,
+      "start": 0,
+      "strand": 1
+    }
+  },
+  "author_info": {},
+  "color_options": {
+    "country": {
+      "color_map": [
+        [
+          "Thailand",
+          "#B36F69"
+        ],
+        [
+          "Singapore",
+          "#80504B"
+        ],
+        [
+          "India",
+          "#FFF86E"
+        ],
+        [
+          "USA",
+          "#FF8102"
+        ],
+        [
+          "Viet\u00a0Nam",
+          "#FF9F96"
+        ],
+        [
+          "Malaysia",
+          "#402826"
+        ],
+        [
+          "Myanmar",
+          "#E68F87"
+        ],
+        [
+          "Hong\u00a0Kong",
+          "#789FCC"
+        ],
+        [
+          "Taiwan",
+          "#96C7FF"
+        ],
+        [
+          "Japan",
+          "#87B3E6"
+        ],
+        [
+          "China",
+          "#87A6FF"
+        ],
+        [
+          "South\u00a0Korea",
+          "#7A95E6"
+        ]
+      ],
+      "key": "country",
+      "legendTitle": "Country",
+      "menuItem": "country",
+      "type": "discrete"
+    },
+    "num_date": {
+      "key": "num_date",
+      "legendTitle": "Sampling date",
+      "menuItem": "date",
+      "type": "continuous"
+    }
+  },
+  "defaults": {
+    "colorBy": "country",
+    "geoResolution": "country",
+    "mapTriplicate": false
+  },
+  "filters": [
+    "country"
+  ],
+  "geo": {
+    "country": {
+      "China": {
+        "latitude": 35.8617,
+        "longitude": 104.1954
+      },
+      "Hong\u00a0Kong": {
+        "latitude": 22.3193,
+        "longitude": 114.1694
+      },
+      "India": {
+        "latitude": 20.5937,
+        "longitude": 78.9629
+      },
+      "Japan": {
+        "latitude": 36.2048,
+        "longitude": 138.2529
+      },
+      "Malaysia": {
+        "latitude": 4.2105,
+        "longitude": 101.9758
+      },
+      "Myanmar": {
+        "latitude": 21.9162,
+        "longitude": 95.956
+      },
+      "Singapore": {
+        "latitude": 1.3521,
+        "longitude": 103.8198
+      },
+      "South\u00a0Korea": {
+        "latitude": 35.9078,
+        "longitude": 127.7669
+      },
+      "Taiwan": {
+        "latitude": 23.6978,
+        "longitude": 120.9605
+      },
+      "Thailand": {
+        "latitude": 15.87,
+        "longitude": 100.9925
+      },
+      "USA": {
+        "latitude": 37.0902,
+        "longitude": -95.7129
+      },
+      "Viet\u00a0Nam": {
+        "latitude": 14.0583,
+        "longitude": 108.2772
+      }
+    }
+  },
+  "maintainer": [
+    "JiyeKwon",
+    "Add your github link repository here"
+  ],
+  "panels": [
+    "tree",
+    "map",
+    "entropy"
+  ],
+  "title": "2009 Flu Pandemic Drug Resistance In Asia",
+  "updated": "18 Feb 2020",
+  "virus_count": 49
+}
